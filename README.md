@@ -20,16 +20,16 @@ The requirements to follow the exercises in this repository are:
 1. [Register](https://workshop_registration.cfapps.eu10.hana.ondemand.com/register/dat163-2) to obtain your username and password
 
 2. Select the workshop entry for this session: dat163-2
-ADD SCREEN SHOT
-##<br>![](/exercises/ex0/images/Ex00_Registration_01b.png)
+<br>ADD SCREEN SHOT
+##<br>![](/exercises/ex0/images/Ex00_Registration_01b.png_new)
 
 3. Type your name.
 ADD SCREEN SHOT
-##<br>![](/exercises/ex0/images/Ex00_Registration_02b.png)
+##<br>![](/exercises/ex0/images/Ex00_Registration_02b.png_new)
 
 4. Click 'Submit'.
 ADD SCREEN SHOT
-##<br>![](/exercises/ex0/images/Ex00_Registration_03b.png)
+##<br>![](/exercises/ex0/images/Ex00_Registration_03b.png_new)
 
 ## Pre-Requisites
 

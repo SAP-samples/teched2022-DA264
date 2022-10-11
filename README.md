@@ -1,26 +1,21 @@
-lynne
-[![REUSE status](https://api.reuse.software/badge/github.com/SAP-samples/teched2021-DAT163)](https://api.reuse.software/info/github.com/SAP-samples/teched2021-DAT163)
-
-# DAT163 - Catalog, Discover, and Prepare: Data Governance with SAP Data Intelligence
+# DA264 - Catalog, Discover, Prepare: SAP Data Intelligence Cloud for Data Governance
 
 ## Description
 
-This repository contains the material for the SAP TechEd 2021 session called DAT163 - Catalog, Discover, and Prepare: Data Governance with SAP Data Intelligence.  
+This repository contains the material for the SAP TechEd 2022 session called DA264 - Catalog, Discover, Prepare: SAP Data Intelligence Cloud for Data Governance.
 
 ## Overview
 
-This session provides attendees an overview of metadata management and data governance capabilities available in SAP Data Intelligence. You will learn about use cases on data discovery, data governance, data quality monitoring, and data preparation.
-This session includes how a business analyst can discover data, gain insight, enhance and enrich data using self-service data-preparation capabilities in SAP Data Intelligence
-This hands-on exercises also include how a data steward can define rules and build a dashboard to monitor the quality of data. .
+This hands-on provides attendes an overview of metadata management and data governance capabilities available in SAP Data Intelligence. You will learn how a data steward can build a data catalog, define rules, and build a dashboard, as well as how a business analyst can discover data, gain insight, and enhance and enrich data with the self-service data preparation capability in SAP Data Intelligence Cloud.
 
 ## Requirements
 
 The requirements to follow the exercises in this repository are:
 * to use a Chrome web browser,
-* to register and get your user,
-* retrieve a zipped folder with data.
+* UPDATE IF NECESSARY to register and get your user,
+* UPDATE IF NECESSARY retrieve a zipped folder with data.
 
-## User Registration
+## UPDATE IF NECESSARY User Registration
 
 1. [Register](https://workshop_registration.cfapps.eu10.hana.ondemand.com/register/dat163-2) to obtain your username and password
 
@@ -44,7 +39,7 @@ The requirements to follow the exercises in this repository are:
 3. Click the Browser back arrow (<-)
 <br>![](/exercises/ex0/images/Ex00_Part01_03.png)
 
-*Note: Suggestion put the files in a folder called 'TechEd_DAT163'*
+*Note: Suggestion put the files in a folder called 'TechEd_DA264_## (where ## is your user number)'*
 
 4. Unzip 'DRUG.zip'
 <br>![](/exercises/ex0/images/Ex00_Part01_04.png)
@@ -52,7 +47,7 @@ The requirements to follow the exercises in this repository are:
 5. Rename 'DRUG.csv' to 'DRUG_##.csv' (where ## is your user number)
 <br>![](/exercises/ex0/images/Ex00_Part01_05.png)
 
-*Note: For example if you are user teched-dat163-**01**, then rename your file DRUG_**01**.csv*
+*UPDATE IF NECESSARY Note: For example if you are user teched-da264-**01**, then rename your file DRUG_**01**.csv*
 
 ## Disclaimer
 - Your screen shots may look different than those in the exercises; they may contain additional content, depending on what other attendees have entered.
@@ -78,4 +73,4 @@ The requirements to follow the exercises in this repository are:
 Support for the content in this repository is available during the actual time of the online session for which this content has been designed. Otherwise, you may request support via the [Issues](../../issues) tab.
 
 ## License
-Copyright (c) 2021 SAP SE or an SAP affiliate company. All rights reserved. This project is licensed under the Apache Software License, version 2.0 except as noted otherwise in the [LICENSE](LICENSES/Apache-2.0.txt) file.
+Copyright (c) 2022 SAP SE or an SAP affiliate company. All rights reserved. This project is licensed under the Apache Software License, version 2.0 except as noted otherwise in the [LICENSE](LICENSES/Apache-2.0.txt) file.

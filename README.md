@@ -35,7 +35,7 @@ The requirements to follow the exercises in this repository are:
 ## Pre-Requisites
 
 1. Click on 'DRUG.zip' file (listed above)
-<br>![](/exercises/ex0/images/Ex00_Part01_01.png)
+<br>![](/exercises/ex0/images/Ex00_Part01_01_new.png)
 
 2. Click 'Download' 'DRUG.zip' file
 <br>![](/exercises/ex0/images/Ex00_Part01_02.png)

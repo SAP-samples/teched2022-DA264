@@ -52,7 +52,7 @@ The requirements to follow the exercises in this repository are:
 6. Select the file 'DRUG.csv'
 <br>![](/exercises/ex0/images/Ex00_Part01_01_add_new_SelectZip.png)
 
-7. Click 'Extract' from the menu
+7. Click 'Extract To' from the menu
 <br>![](/exercises/ex0/images/Ex00_Part01_01_add_new_extract.png)
 
 8. Extract DRUG.csv to your Desktop
@@ -72,7 +72,7 @@ The requirements to follow the exercises in this repository are:
 
 14. Right click and select rename, to rename 'DRUG.csv' to 'DRUG_##.csv' (where ## is your user number)
 <br>![](/exercises/ex0/images/Ex00_Part01_01_add_new_RenameDRUG.png)
-*Note: For example if you are user teched-da264-**01**, then rename your file DRUG_**01**.csv*
+<br>*Note: For example if you are user teched-da264-**01**, then rename your file DRUG_**01**.csv*
 
 ## Disclaimer
 - Your screen shots may look different than those in the exercises; they may contain additional content, depending on what other attendees have entered.

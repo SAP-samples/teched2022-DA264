@@ -43,7 +43,7 @@ The requirements to follow the exercises in this repository are:
 3. Click the Browser back arrow (<-)
 <br>![](/exercises/ex0/images/Ex00_Part01_03.png)
 
-*Note: Suggestion put the files in a folder called 'TechEd_DA264_## (where ## is your user number)'*
+*Note: Suggestion put the files in a folder called 'TechEd_DA264'*
 
 4. Unzip 'DRUG.zip'
 <br>![](/exercises/ex0/images/Ex00_Part01_04.png)

@@ -20,7 +20,7 @@ The requirements to follow the exercises in this repository are:
 1. [Register](https://workshop_registration.cfapps.eu10.hana.ondemand.com/register/dat163-2_new) to obtain your username and password
 <br> CHANGE REGISTER TO BE A URL
 
-2. Select the workshop entry for this session: dat163-2
+2. Select the workshop entry for this session: da264 UPDATE IF NECESSARY
 <br>ADD SCREEN SHOT
 ##<br>![](/exercises/ex0/images/Ex00_Registration_01b.png_new)
 
@@ -43,12 +43,28 @@ The requirements to follow the exercises in this repository are:
 3. Click the Browser back arrow (<-)
 <br>![](/exercises/ex0/images/Ex00_Part01_03.png)
 
-*Note: Suggestion put the files in a folder called 'TechEd_DA264'*
+4. Open File Explorer and select 'Downloads'
+<br>![](/exercises/ex0/images/Ex00_Part01_01_add_new_DownloadFolder.png)
 
-4. Unzip 'DRUG.zip'
-<br>![](/exercises/ex0/images/Ex00_Part01_04.png)
+5. Double click on 'DRUGS (1).zip' to upzip the file
+<br>![](/exercises/ex0/images/Ex00_Part01_01_add_new_blur.png)
 
-5. Rename 'DRUG.csv' to 'DRUG_##.csv' (where ## is your user number)
+6. Select the file 'DRUG.csv'
+<br>![](/exercises/ex0/images/Ex00_Part01_01_add_new_SelectZip.png)
+
+7. Click 'Extract' from the menu
+<br>![](/exercises/ex0/images/Ex00_Part01_01_add_new_extract.png)
+
+8. Extract DRUG.csv to your Desktop
+<br>![](/exercises/ex0/images/Ex00_Part01_01_add_new_SelectZip_1.png)
+
+9. Click 'OK'
+<br>![](/exercises/ex0/images/Ex00_Part01_01_add_new_SelectOK.png)
+
+10. Close 'DRUG (1).zip file
+<br>![](/exercises/ex0/images/Ex00_Part01_01_add_new_CloseZip.png)
+
+12. Rename 'DRUG.csv' to 'DRUG_##.csv' (where ## is your user number)
 <br>![](/exercises/ex0/images/Ex00_Part01_05.png)
 
 *UPDATE IF NECESSARY Note: For example if you are user teched-da264-**01**, then rename your file DRUG_**01**.csv*

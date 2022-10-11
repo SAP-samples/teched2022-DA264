@@ -22,7 +22,7 @@ The requirements to follow the exercises in this repository are:
 
 2. Select the workshop entry for this session: dat163-2
 <br>ADD SCREEN SHOT
-##<br>![](/exercises/ex0/images/Ex00_Registration_01b.png_new)
+##<br>![](/exercises/ex0/images/Ex00_Registration_01b.png_add_new)
 
 3. Type your name.
 <br>ADD SCREEN SHOT

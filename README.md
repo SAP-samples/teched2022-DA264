@@ -22,7 +22,7 @@ The requirements to follow the exercises in this repository are:
 
 2. Select the workshop entry for this session: dat163-2
 <br>ADD SCREEN SHOT
-##<br>![](/exercises/ex0/images/Ex00_Registration_01b.png_add_new)
+##<br>![](/exercises/ex0/images/Ex00_Registration_01b.png_new)
 
 3. Type your name.
 <br>ADD SCREEN SHOT
@@ -35,7 +35,7 @@ The requirements to follow the exercises in this repository are:
 ## Pre-Requisites
 
 1. Click on 'DRUG.zip' file (listed above)
-<br>![](/exercises/ex0/images/Ex00_Part01_01_new.png)
+<br>![](/exercises/ex0/images/Ex00_Part01_01_add_new.png)
 
 2. Click 'Download' 'DRUG.zip' file
 <br>![](/exercises/ex0/images/Ex00_Part01_02.png)

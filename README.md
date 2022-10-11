@@ -38,7 +38,7 @@ The requirements to follow the exercises in this repository are:
 <br>![](/exercises/ex0/images/Ex00_Part01_01_add_new.png)
 
 2. Click 'Download' 'DRUG.zip' file
-<br>![](/exercises/ex0/images/Ex00_Part01_02.png)
+<br>![](/exercises/ex0/images/Ex00_Part01_02_add_new.png)
 
 3. Click the Browser back arrow (<-)
 <br>![](/exercises/ex0/images/Ex00_Part01_03.png)

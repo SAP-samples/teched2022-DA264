@@ -76,7 +76,7 @@ After completing these steps you will have discovered dataset stored in a databa
 4. This allows to view a list of connections.
 <br>![](/exercises/ex1/images/Ex01_Part03_04.png)
 
-5. Select 'View Capabilities' for the 'HANA_DEMO' or 'HANA_LOCALHOST' connection.
+5. Select 'View Capabilities' for the 'HANA_DEMO' connection.
 <br>![](/exercises/ex1/images/Ex01_Part03_05.png)
 
 6. This lists all the features supported for a given connected system.

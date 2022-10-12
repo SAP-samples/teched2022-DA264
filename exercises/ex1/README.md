@@ -85,7 +85,7 @@ After completing these steps you will have discovered dataset stored in a databa
 7. Click 'Grid View' to come back to tiles.
 <br>![](/exercises/ex1/images/Ex01_Part03_07.png)
 
-8. Click on the 'HANA_DEMO' or 'HANA_LOCALHOST' tile.
+8. Click on the 'HANA_DEMO' tile.
 <br>![](/exercises/ex1/images/Ex01_Part03_08.png)
 
 9. Select 'TECHED_DAT163' or 'TECHED'.

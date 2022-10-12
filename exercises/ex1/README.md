@@ -65,7 +65,7 @@ You have successfully logged into SAP Data Intelligence.
 After completing these steps you will have discovered dataset stored in a database.
 
 1. Click on 'Metadata Explorer'.
-<br>![](/exercises/ex1/images/Ex01_Part03_01.png)
+<br>![](/exercises/ex1/images/Ex01_Part03_01_new.png)
 
 2. Click on 'Browse Connections'.
 <br>![](/exercises/ex1/images/Ex01_Part03_02.png)

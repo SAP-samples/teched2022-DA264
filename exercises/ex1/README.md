@@ -36,7 +36,7 @@ After completing these steps, you will have logged into SAP Data Intelligence.
 
 UPDATE: ADD URL link to DI
 
-1. Open Chrome and go to the SAP Data Intelligence url you were provided. You might need to use the URL and credentials from Getting started guide
+1. Open Chrome and go to the SAP Data Intelligence url you were provided.
 <br>![](/exercises/ex1/images/Ex01_Part01_01.png)
 
 2. Enter 'dat163-1' or 'dat163-2' for Tenant Name depending on your session and click 'Proceed'.

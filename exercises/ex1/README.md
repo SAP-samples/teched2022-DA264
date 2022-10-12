@@ -39,15 +39,15 @@ UPDATE: ADD URL link to DI
 1. Open Chrome and go to the SAP Data Intelligence url you were provided.
 <br>![](/exercises/ex1/images/Ex01_Part01_01.png)
 
-2. Enter 'dat163-1' or 'dat163-2' for Tenant Name depending on your session and click 'Proceed'.
+2. Enter 'default' for Tenant Name depending on your session and click 'Proceed'.
 <br>![](/exercises/ex1/images/Ex01_Part01_02_new.png)
 
-3. Enter the Username that was assigned to you (e.g. 'teched-dat163-##'), for Tenant Name.
+3. Enter the Username that was assigned to you (e.g. 'teched-da264-##'), for Tenant Name.
 <br>![](/exercises/ex1/images/Ex01_Part01_03_new.png)
 
 Note: 
 * where # is the number assigned to you.
-* If your user number is 01 then your login is 'teched-dat163-01'.
+* If your user number is 99 then your login is 'teched-da264-99'.
   
 4. Enter the Password that was assigned to you, for your Password.
 <br>![](/exercises/ex1/images/Ex01_Part01_04.png)

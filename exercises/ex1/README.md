@@ -56,7 +56,7 @@ Note:
 <br>![](/exercises/ex1/images/Ex01_Part01_05_new.png)
 
 4. You are now signed in the application.
-<br>![](/exercises/ex1/images/Ex01_Part01_06.png)
+<br>![](/exercises/ex1/images/Ex01_Part01_06_new.png)
 
 You have now logged into SAP Data Intelligence.
 

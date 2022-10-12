@@ -58,7 +58,7 @@ Note:
 4. You are now signed in the application.
 <br>![](/exercises/ex1/images/Ex01_Part01_06_new.png)
 
-You have now logged into SAP Data Intelligence.
+You have successfully logged into SAP Data Intelligence.
 
 ## Browse data in a Connected System (Database)
 

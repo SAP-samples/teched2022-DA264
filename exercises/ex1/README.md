@@ -50,10 +50,10 @@ Note:
 * If your user number is 99 then your login is 'teched-da264-99'.
   
 4. Enter the Password that was assigned to you, for your Password.
-<br>![](/exercises/ex1/images/Ex01_Part01_04.png)
+<br>![](/exercises/ex1/images/Ex01_Part01_04_new.png)
   
 5. Click 'Sign In'.
-<br>![](/exercises/ex1/images/Ex01_Part01_05.png)
+<br>![](/exercises/ex1/images/Ex01_Part01_05_new.png)
 
 4. You are now signed in the application.
 <br>![](/exercises/ex1/images/Ex01_Part01_06.png)

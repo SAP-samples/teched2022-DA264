@@ -6,11 +6,7 @@ In this exercise, you will discover and interact with various connected systems,
 
 ## Dataset Overview
 
-You will interact with two different dataset:
-* A table stored in a SAP HANA Database.
-* A flat file (csv) which you will upload in a cloud data lake data repository
-
-The first dataset, the SAP HANA Table, contains information about pharmaceutic claims for an insurance company.
+The first dataset, contains information about pharmaceutic claims for an insurance company.
 
 It contains 8 fields:
 * RECORD_ID (Unique Identifier associated to a claim)
@@ -22,7 +18,7 @@ It contains 8 fields:
 * VISIT (Date of the visit associated to this claim)
 * DRUG_NAME (Drug name for the claim)
 
-The second dataset, the flat file you retrieved on the main page of this hands-on, contains a list of drugs which are supported by this insurance company.
+The second dataset, DRUG.csv, is the flat file you retrieved on the main page of this hands-on and this file contains a list of drugs which are supported by this insurance company.
 
 It contains 6 fields:
 * ORIG_PRODUCT (Non split entry)
@@ -32,7 +28,7 @@ It contains 6 fields:
 * ROUTE_ADMINISTERED (How the drug is administered)
 * NOTES (Additional notes, if any)
 
-This hands on will focus on discovering these data, find patterns and data quality issues, and fix them.
+This hands on will focus on discovering these datasets, find patterns and data quality issues, and fix them.
 
 ## Log Into SAP Data Intelligence
 

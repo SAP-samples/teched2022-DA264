@@ -34,6 +34,8 @@ This hands on will focus on discovering these datasets, find patterns and data q
 
 After completing these steps, you will have logged into SAP Data Intelligence.
 
+UPDATE: ADD URL link to DI
+
 1. Open Chrome and go to the SAP Data Intelligence url you were provided. You might need to use the URL and credentials from Getting started guide
 <br>![](/exercises/ex1/images/Ex01_Part01_01.png)
 

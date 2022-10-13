@@ -88,7 +88,7 @@ After completing these steps you will have discovered dataset stored in a databa
 8. Click on the 'HANA_DEMO' tile.
 <br>![](/exercises/ex1/images/Ex01_Part03_08.png)
 
-9. Select 'TECHED_DAT163' or 'TECHED'.
+9. Select 'TECHED_DA264'.
 <br>![](/exercises/ex1/images/Ex01_Part03_09.png)
 
 10. The list of all available tables within the schema shows up.  Or you might have 'PHARMA_CLAIMS' and 'QMTICKET' tables instead. 

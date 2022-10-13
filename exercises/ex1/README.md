@@ -132,13 +132,13 @@ You can easily profile the data and get access to metadata information. It also 
 21. Select the Line for 'DRUG_NAME'.
 <br>![](/exercises/ex1/images/Ex01_Part03_21.png)
 
-22. Observe Data Preview and the 'Top 10 Distinct Values'.
+22. Observe 'Data Preview' and the 'Top 10 Distinct Values'.
 <br>![](/exercises/ex1/images/Ex01_Part03_22.png)
 
-23. We can see there are data quality issues such as spelling mistakes on the drug names.
+23. Scroll to the bottom of 'Data Preview'. We can see there are data quality issues such as spelling mistakes on the drug names.
 <br>![](/exercises/ex1/images/Ex01_Part03_23.png)
 
-24. We can also see there is an important number of null values.
+24. Looking at the 'Top 10 Distinct Values', we can see there is a large percentage of null values in the dataset.
 <br>![](/exercises/ex1/images/Ex01_Part03_24.png)
 
 25. Click 'Data Intelligence Metadata Explorer'.
@@ -147,7 +147,7 @@ You can easily profile the data and get access to metadata information. It also 
 26. Click 'Home'.
 <br>![](/exercises/ex1/images/Ex01_Part03_26.png)
 
-You have now discovered a table in a database, profiled the data and found some data quality issues.
+You have now discovered a table in a database, profiled the data, and found some data quality issues.
 
 ## Upload your Dataset
 
@@ -165,13 +165,13 @@ After completing these steps you will have uploaded a dataset from a flat flat t
 4. Click on the New Folder icon (folder with a +).
 <br>![](/exercises/ex1/images/Ex01_Part02_04.png)
 
-5. Enter 'TechEd_DAT163_##' for folder name (where ## is the number assigned to you).
+5. Enter 'TechEd_DA264_##' for folder name (where ## is the number assigned to you).
 <br>![](/exercises/ex1/images/Ex01_Part02_05.png)
 
 6. Click 'OK'.
 <br>![](/exercises/ex1/images/Ex01_Part02_06.png)
 
-7. Search for 'TechEd_DAT163_##' to isolate your newly created folder, then click on your newly added 'TechEd_DAT163_##' folder (where ## is the number assigned to you).
+7. Search for 'TechEd_DA264_##' to isolate your newly created folder, then click on your newly added 'TechEd_DA264_##' folder (where ## is the number assigned to you).
 <br>![](/exercises/ex1/images/Ex01_Part02_07.png)
 
 8. Upload a file, click on the 'Upload Files' icon on the toolbar.
@@ -180,7 +180,7 @@ After completing these steps you will have uploaded a dataset from a flat flat t
 9. Click on 'Upload' in the upper right hand corner of the Upload Files pop-up window.
 <br>![](/exercises/ex1/images/Ex01_Part02_09.png)
 
-10. Browse to Sample Data folder where you downloaded and extracted 'DRUG_##.csv' (where ## is the number assigned to you) and select it.
+10. Browse to your Desktop, where you downloaded and extracted 'DRUG_##.csv' (where ## is the number assigned to you) and select it.
 <br>![](/exercises/ex1/images/Ex01_Part02_10.png)
 
 11. Click 'Open'.
@@ -198,7 +198,7 @@ After completing these steps you will have uploaded a dataset from a flat flat t
 15. The file is now uploaded and available in the data lake.
 <br>![](/exercises/ex1/images/Ex01_Part02_15.png)
 
-You have now uploaded a dataset from a flat file on your local folder to a cloud data lake data repository using SAP Data Intelligence.
+You have now uploaded a dataset from a flat file on your local system to a cloud data lake data repository using SAP Data Intelligence.
 
 ## Enrich Dataset and Isolate Data Quality Issues
 
@@ -212,13 +212,13 @@ Additionally you will profile this dataset, add a rating and description and pub
 2. Select 'Prepare Data'.
 <br>![](/exercises/ex1/images/Ex01_Part04_02.png)
 
-3. The self-service data preparation room shows up.
+3. The self-service data preparation appears.
 <br>![](/exercises/ex1/images/Ex01_Part04_03.png)
 
 4. The first record of the data is actually the column header.
 <br>![](/exercises/ex1/images/Ex01_Part04_04.png)
 
-5. Check 'Use first row as header'.
+5. On the bottom right, check 'Use first row as header'.
 <br>![](/exercises/ex1/images/Ex01_Part04_05.png)
 
 6. Click 'Continue'.
@@ -236,10 +236,10 @@ Additionally you will profile this dataset, add a rating and description and pub
 10. Click 'Enrich Preparation'.
 <br>![](/exercises/ex1/images/Ex01_Part04_10.png)
 
-11. the enrich preparation main user interface shows up.
+11. You are now able to enrich and prepare your data.
 <br>![](/exercises/ex1/images/Ex01_Part04_11.png)
 
-12. Click '+' to add a new source of data to merge with.
+12. Click '+' to add a new source of data to merge with your csv file.
 <br>![](/exercises/ex1/images/Ex01_Part04_12.png)
 
 13. Click 'Browse'.
@@ -248,7 +248,7 @@ Additionally you will profile this dataset, add a rating and description and pub
 14. Select 'HANA_DEMO as a 'Connection'.
 <br>![](/exercises/ex1/images/Ex01_Part04_14.png)
 
-15. Click 'TECHED_DAT163'.
+15. Click 'TECHED_DA264'.
 <br>![](/exercises/ex1/images/Ex01_Part04_15.png)
 
 16. Type 'CLAIMS_##' in the 'Filter items' text field (where ## is your user number).
@@ -260,10 +260,10 @@ Additionally you will profile this dataset, add a rating and description and pub
 18. Click 'OK'.
 <br>![](/exercises/ex1/images/Ex01_Part04_18.png)
 
-19. The application is acquiring a sample of the new selected dataset.
+19. The application is acquiring a sample of the selected PHARMA_CLAIMS_## dataset (where ## is your user number).
 <br>![](/exercises/ex1/images/Ex01_Part04_19.png)
 
-20. The new selected dataset can now be used to merge data.
+20. The selected PHARMA_CLAIMS_## dataset can now be used to merge data (where ## is your user number).
 <br>![](/exercises/ex1/images/Ex01_Part04_20.png)
 
 21. Drag and drop 'PHARMA_CLAIMS' on the cell on the left hand-side of the main dataset.
@@ -278,7 +278,7 @@ Additionally you will profile this dataset, add a rating and description and pub
 24. Click Apply.
 <br>![](/exercises/ex1/images/Ex01_Part04_24.png)
 
-25. The application displays a preview of the merge data.
+25. You will now see a preview of the merge data.
 <br>![](/exercises/ex1/images/Ex01_Part04_25.png)
 
 26. The merged data now shows a null value for the column 'DRUG_NAME_0' when a record from the claim data is for a drug that is not listed in the list of supported drugs.
@@ -287,12 +287,12 @@ Additionally you will profile this dataset, add a rating and description and pub
 27. Click 'Apply Enrichment'.
 <br>![](/exercises/ex1/images/Ex01_Part04_27.png)
 
-28. The main self-service data preparation room now shows the enriched dataset.
+28. You are now back on the main self-service data preparation, where you can see enriched (merged) dataset.
 <br>![](/exercises/ex1/images/Ex01_Part04_28.png)
 
-The enriched dataset now contains null records for the field 'DRUG_NAME_0' for the records in the claim dataset which the drug name did not exists in our reference.
+The enriched dataset now contains null values for the field 'DRUG_NAME_0' for the records in the PHARMA_CLAIMS dataset which the drug name did not exists in our reference.
 
-There are potential multiple reasons for that. Some might be spelling mistakes of drug names, some other might be drugs that are not taken into account by the insurance company, some could be that the drug name in our claim was null.
+There are potential multiple reasons for that. Some reasons might be spelling mistakes of drug names or drugs that are not taken into account by the insurance company or the drug name in our claim was null.
 
 You can now use this enriched dataset to isolate the data quality issues to further understand the data.
 
@@ -335,7 +335,7 @@ You can now use this enriched dataset to isolate the data quality issues to furt
 41. Click 'Run Preparation'.
 <br>![](/exercises/ex1/images/Ex01_Part04_41.png)
 
-42. Type 'PHARMA_CLAIMS_ENRICHED_##' (Where ## is your user number) for the 'Dataset Name'.
+42. Type 'PHARMA_CLAIMS_ENRICHED_##' (where ## is your user number) for the 'Dataset Name'.
 <br>![](/exercises/ex1/images/Ex01_Part04_42.png)
 
 43. Click 'Apply'.
@@ -347,7 +347,7 @@ You can now use this enriched dataset to isolate the data quality issues to furt
 45. Select 'Monitor' and click 'Monitor Tasks'.
 <br>![](/exercises/ex1/images/Ex01_Part04_45.png)
 
-46. The 'Monitoring' application shows the current running tasks. Wait for your task to complete.
+46. 'Monitoring' shows the current running tasks. Wait for your task to complete.
 <br>![](/exercises/ex1/images/Ex01_Part04_46.png)
 
 47. The task is completed.
@@ -365,7 +365,7 @@ You can now use this enriched dataset to isolate the data quality issues to furt
 51. Click 'shared'.
 <br>![](/exercises/ex1/images/Ex01_Part04_51.png)
 
-52. Type 'TechEd_DAT163_##' (where ## is your user number) in the Filter field.
+52. Type '*_##' (where ## is your user number) in the Filter field.
 <br>![](/exercises/ex1/images/Ex01_Part04_52.png)
 
 53. Click TechEd_DAT163_## (where ## is your user number).
@@ -377,7 +377,7 @@ You can now use this enriched dataset to isolate the data quality issues to furt
 55. Select 'View Fact Sheet', Click 'Overview'.
 <br>![](/exercises/ex1/images/Ex01_Part04_55.png)
 
-56. The factsheet for the dataset is not profiled and not published.
+56. The Fact Sheet for the dataset is not profiled and has not been published.
 <br>![](/exercises/ex1/images/Ex01_Part04_56.png)
 
 57. Click the 'Profiling' icon.

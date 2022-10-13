@@ -73,7 +73,7 @@ After completing these steps you will have discovered dataset stored in a databa
 3. You are currently viewing a connections in a Grid View layout. Click 'List View'.
 <br>![](/exercises/ex1/images/Ex01_Part03_03.png)
 
-4. This allows to view a list of connections.
+4. This allows you to view a list of connections.
 <br>![](/exercises/ex1/images/Ex01_Part03_04.png)
 
 5. Select 'View Capabilities' for the 'HANA_DEMO' connection.

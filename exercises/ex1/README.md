@@ -454,4 +454,4 @@ You also profiled this dataset, added a rating and a description, and published 
 
 You've now used Metadata Explorer to connect and interact with different data repositories (Databases, Cloud Data Lake, Local File System). You profiled and discovered data to identify data quality issues. You created a new enriched dataset to isolate these data quality issues. You published this dataset to the catalog.
 
-Continue to - [Hands-on - Part 2 Govern and Monitor Data Quality](../ex2/README.md)
+Continue to - [Hands-on - Part 2: Govern and Monitor Data Quality](../ex2/README.md)

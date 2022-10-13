@@ -91,10 +91,10 @@ After completing these steps you will have discovered dataset stored in a databa
 9. Select 'TECHED_DA264'.
 <br>![](/exercises/ex1/images/Ex01_Part03_09.png)
 
-10. The list of all available tables within the schema shows up.  Or you might have 'PHARMA_CLAIMS' and 'QMTICKET' tables instead. 
+10. The list of all available tables within the schema shows up.   
 <br>![](/exercises/ex1/images/Ex01_Part03_10.png)
 
-11. Type 'PHARMA_CLAIMS_##' in the 'Filter items' text field (where ## is your user number, for example if your user number is 01, then type 'PHARMA_CLAIMS_01'). Or you might need use 'PHARMA_CLAIMS' table instead. 
+11. Type 'PHARMA_CLAIMS_##' in the 'Filter items' text field (where ## is your user number, for example if your user number is 99, then type 'PHARMA_CLAIMS_99').
 <br>![](/exercises/ex1/images/Ex01_Part03_11.png)
 
 12. Click 'View FactSheet' on the 'PHARMA_CLAIM_##' database table tile (where ## is your user number).
@@ -105,7 +105,7 @@ After completing these steps you will have discovered dataset stored in a databa
 
 The 'Fact Sheet' is the central place in SAP Data Intelligence Metatadata Explorer to find information about your data.
 
-You can easily profile the data and get access to metadata information. It also contains links and information about business terms and tags associated to the dataset or the columns. Users can describe, rate, and comment the data collaboratively. You can preparare the data for other downstream usage.
+You can easily profile the data and get access to metadata information. It also contains links and information about business terms and tags associated to the dataset or the columns. Users can describe, rate, and comment on the data collaboratively. You can preparare the data for other downstream usage.
 
 14. Click 'Start Profiling'.
 <br>![](/exercises/ex1/images/Ex01_Part03_14.png)
@@ -119,8 +119,9 @@ You can easily profile the data and get access to metadata information. It also 
 17. This shows the details of the notifications. Click anywhere outside the notification window to continue interacting with the application.
 <br>![](/exercises/ex1/images/Ex01_Part03_17.png)
 
-18. Wait for the profiling task to finish, and Click 'Refresh' (Note: this action can take some time).
+18. Wait for the profiling task to finish, this action can take some time. You can click 'Refresh' until you see a notification that the profiling is complete.
 <br>![](/exercises/ex1/images/Ex01_Part03_18.png)
+<br>![](/exercises/ex1/images/Ex01_Part03_18_addition.png)
 
 19. The factsheet was updated with the profiling information once the task is done.
 <br>![](/exercises/ex1/images/Ex01_Part03_19.png)

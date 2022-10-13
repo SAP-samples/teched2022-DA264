@@ -52,7 +52,7 @@ Then you will schedule a publication of this dataset to take into account potant
 14. Click 'Recipe'.
 <br>![](/exercises/ex2/images/Ex02_Part01_14.png)
 
-15. Edit the 'Add Column' action.
+15. Edit the 'Add Column ValidClaim' action.
 <br>![](/exercises/ex2/images/Ex02_Part01_15.png)
 
 16. Change the 'Column Name' from ValidClaim to VALID_DRUG.
@@ -79,7 +79,7 @@ Then you will schedule a publication of this dataset to take into account potant
 23. This filters the data with only claims containing an invalid drug.
 <br>![](/exercises/ex2/images/Ex02_Part01_23.png)
 
-24. Click the menu next to the 'DRUG_NAME' Column Header, and sort acending.
+24. Click the menu next to the 'DRUG_NAME' column header, and sort acending.
 <br>![](/exercises/ex2/images/Ex02_Part01_24.png)
 
 25. The data are sorted by 'DRUG_NAME' by ascending order, but the first records contains null values.
@@ -106,10 +106,10 @@ Then you will schedule a publication of this dataset to take into account potant
 31. Click 'Aggregate Preparation'.
 <br>![](/exercises/ex2/images/Ex02_Part01_31.png)
 
-32. The filter defined in the main (previous) data preparation are automatically pre-defined in the aggregation window.
+32. The filter defined in the main (previous screen) data preparation are automatically pre-defined in the aggregation window.
 <br>![](/exercises/ex2/images/Ex02_Part01_32.png)
 
-33. Drag and drop 'DRUG_NAME' again to  'Output Columns'.
+33. Drag and drop 'DRUG_NAME' to 'Output Columns'.
 <br>![](/exercises/ex2/images/Ex02_Part01_33.png)
 
 34. This defines the aggregation with a preview of the result at the bottom half of the screen.

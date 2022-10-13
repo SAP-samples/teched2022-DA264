@@ -31,10 +31,10 @@ Then you will schedule a publication of this dataset to take into account potant
 7. Click the 'Join' icon.
 <br>![](/exercises/ex2/images/Ex02_Part01_07.png)
 
-8. The join definition window opens. Scroll down.
+8. The join definition window opens. Scroll down to the bottom of Output Columns.
 <br>![](/exercises/ex2/images/Ex02_Part01_08.png)
 
-9. Check 'POTENCY'.
+9. Check 'POTENCY', under Right Source.
 <br>![](/exercises/ex2/images/Ex02_Part01_09.png)
 
 10. Click 'Apply'.
@@ -79,7 +79,7 @@ Then you will schedule a publication of this dataset to take into account potant
 23. This filters the data with only claims containing an invalid drug.
 <br>![](/exercises/ex2/images/Ex02_Part01_23.png)
 
-24. Click the 'DRUG_NAME' Column Header, and sort acending.
+24. Click the menu next to the 'DRUG_NAME' Column Header, and sort acending.
 <br>![](/exercises/ex2/images/Ex02_Part01_24.png)
 
 25. The data are sorted by 'DRUG_NAME' by ascending order, but the first records contains null values.
@@ -106,13 +106,13 @@ Then you will schedule a publication of this dataset to take into account potant
 31. Click 'Aggregate Preparation'.
 <br>![](/exercises/ex2/images/Ex02_Part01_31.png)
 
-32. The aggregate window shows up. The filter defined in the main data preparation room are automatically pre-defined in the aggregation window.
+32. The filter defined in the main (previous) data preparation are automatically pre-defined in the aggregation window.
 <br>![](/exercises/ex2/images/Ex02_Part01_32.png)
 
-33. Drag and drop 'DRUG_NAME' in the 'Output Columns' area.
+33. Drag and drop 'DRUG_NAME' again to  'Output Columns'.
 <br>![](/exercises/ex2/images/Ex02_Part01_33.png)
 
-34. This defines the aggregation with a preview of the result.
+34. This defines the aggregation with a preview of the result at the bottom half of the screen.
 <br>![](/exercises/ex2/images/Ex02_Part01_34.png)
 
 35. Drag and drop 'DRUG_NAME' in the 'Output Columns' area.

@@ -119,7 +119,7 @@ You can easily profile the data and get access to metadata information. It also 
 17. This shows the details of the notifications. Click anywhere outside the notification window to continue interacting with the application.
 <br>![](/exercises/ex1/images/Ex01_Part03_17.png)
 
-18. Wait for the profiling task to finish, this action can take some time. You can click 'Refresh' until you see a notification that the profiling is complete.
+18. Wait for the profiling task to finish, this action can take some time. You can click 'Refresh' until you see a notification that the profiling is complete. Click 'Refresh' after profiling is complete.
 <br>![](/exercises/ex1/images/Ex01_Part03_18.png)
 <br>![](/exercises/ex1/images/Ex01_Part03_18_addition.png)
 
@@ -410,22 +410,23 @@ You can now use this enriched dataset to isolate the data quality issues to furt
 66. The application sends a notification for the publication task trigger.
 <br>![](/exercises/ex1/images/Ex01_Part04_66.png)
 
+UPDATE - I DID NOT GET A NOTIFICATION THAT PUBLICATION COMPLETED
 67. The application sends another notification when the publication task is finished.
 <br>![](/exercises/ex1/images/Ex01_Part04_67.png)
 
 68. Click 'Refresh'.
 <br>![](/exercises/ex1/images/Ex01_Part04_68.png)
 
-69. The application now notifies that the dataset is both profiled and published in the application catalog.
+69. You can now see that the dataset is both profiled and published in the application catalog.
 <br>![](/exercises/ex1/images/Ex01_Part04_69.png)
 
-70. Click 'View Factsheet'.
+70. Click 'View Fact Sheet'.
 <br>![](/exercises/ex1/images/Ex01_Part04_70.png)
 
 71. Click 'Reviews'.
 <br>![](/exercises/ex1/images/Ex01_Part04_71.png)
 
-72. Click the pencil icon to post a rating.
+72. Click the stars icon to post a rating.
 <br>![](/exercises/ex1/images/Ex01_Part04_72.png)
 
 73. Click and define a rating (for example 4 stars rating is done by clicking the 4th star).
@@ -446,8 +447,8 @@ You can now use this enriched dataset to isolate the data quality issues to furt
 78. You returned to the Metadata Explorer home page.
 <br>![](/exercises/ex1/images/Ex01_Part04_78.png)
 
-You have now created a new dataset using self-service data preparation. This new dataset helps to easily isolate invalid claims.
-You also profiled this dataset, added a rating and a description and published it in the catalog so it can be easily retrieved.
+You have now created a new dataset by merging two datasets using self-service data preparation. This new dataset helps to easily isolate invalid pharmaceutical claims.
+You also profiled this dataset, added a rating and a description, and published the dataset in the catalog so it can be easily retrieved.
 
 ## Summary
 

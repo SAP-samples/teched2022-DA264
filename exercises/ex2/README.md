@@ -79,7 +79,7 @@ Then you will schedule a publication of this dataset to take into account potant
 23. This filters the data with only claims containing an invalid drug.
 <br>![](/exercises/ex2/images/Ex02_Part01_23.png)
 
-24. Click the menu next to the 'DRUG_NAME' column header, and sort acending.
+24. Click the menu icon next to the 'DRUG_NAME' column header, and sort acending.
 <br>![](/exercises/ex2/images/Ex02_Part01_24.png)
 
 25. The data are sorted by 'DRUG_NAME' by ascending order, but the first records contains null values.
@@ -100,169 +100,169 @@ Then you will schedule a publication of this dataset to take into account potant
 30. Click '<' to come back to the 'Run Preparation' menu.
 <br>![](/exercises/ex2/images/Ex02_Part01_30.png)
 
-30. Click once again '<' to come back to the list of available actions.
+31. Click once again '<' to come back to the list of available actions.
 <br>![](/exercises/ex2/images/Ex02_Part01_30b.png)
 
-31. Click 'Aggregate Preparation'.
+32. Click 'Aggregate Preparation'.
 <br>![](/exercises/ex2/images/Ex02_Part01_31.png)
 
-32. The filter defined in the main (previous screen) data preparation are automatically pre-defined in the aggregation window.
+33. The filter defined in the main (previous screen) data preparation are automatically pre-defined in the aggregation window.
 <br>![](/exercises/ex2/images/Ex02_Part01_32.png)
 
-33. Drag and drop 'DRUG_NAME' to 'Output Columns'.
+34. Drag and drop 'DRUG_NAME' to 'Output Columns'.
 <br>![](/exercises/ex2/images/Ex02_Part01_33.png)
 
-34. This defines the aggregation with a preview of the result at the bottom half of the screen.
+35. This defines the aggregation with a preview of the result at the bottom half of the screen.
 <br>![](/exercises/ex2/images/Ex02_Part01_34.png)
 
-35. Drag and drop 'DRUG_NAME' in the 'Output Columns' area.
+36. Drag and drop 'DRUG_NAME' in the 'Output Columns' area.
 <br>![](/exercises/ex2/images/Ex02_Part01_35.png)
 
-36. This will generate an expected error message as right now the system considers we are trying to aggregate data twice on the same column.
+37. This will generate an expected error message as right now the system considers we are trying to aggregate data twice on the same column.
 <br>![](/exercises/ex2/images/Ex02_Part01_36.png)
 
-37. Change the Aggregation function from 'No Aggregation' to 'Count'.
+38. Change the Aggregation function from 'No Aggregation' to 'Count'.
 <br>![](/exercises/ex2/images/Ex02_Part01_37.png)
 
-38. This shows the preview of the aggregation that contains the distinct values of drug names with their respective count.
+39. This shows the preview of the aggregation that contains the distinct values of drug names with their respective count.
 <br>![](/exercises/ex2/images/Ex02_Part01_38.png)
 
-39. Click 'Apply Aggregation'.
+40. Click 'Apply Aggregation'.
 <br>![](/exercises/ex2/images/Ex02_Part01_39.png)
 
-40. The main data preparation room now contains the aggregated data. The data could be exported as-is (as this is based only on a sample of the data) for further study and analysis. We can see already some simple data quality issues in the name of the drugs which we will curate later on.
+41. The main data preparation room now contains the aggregated data. The data could be exported as-is (as this is based only on a sample of the data) for further study and analysis. We can see already some simple data quality issues in the name of the drugs which we will curate later on.
 <br>![](/exercises/ex2/images/Ex02_Part01_40.png)
 
-41. For now, we can disable this aggregation (but still keep it's definition). Click 'Recipe'.
+42. For now, we can disable this aggregation (but still keep it's definition). Click 'Recipe'.
 <br>![](/exercises/ex2/images/Ex02_Part01_41.png)
 
-42. Click 'More Actions' for the 'Aggregate' action in the recipe.
+43. Click 'More Actions' for the 'Aggregate' action in the recipe.
 <br>![](/exercises/ex2/images/Ex02_Part01_42.png)
 
-43. Click 'Disable'.
+44. Click 'Disable'.
 <br>![](/exercises/ex2/images/Ex02_Part01_43.png)
 
-44. The aggregation action is now disabled. The data preparation room shows the data prior executing the aggregation. The filters that were defined were automatically removed (but are still embedded in the definition of the aggregation). At any point of time, we can come back to this data preparation recipe and reactivate this action.
+45. The aggregation action is now disabled. The data preparation room shows the data prior executing the aggregation. The filters that were defined were automatically removed (but are still embedded in the definition of the aggregation). At any point of time, we can come back to this data preparation recipe and reactivate this action.
 <br>![](/exercises/ex2/images/Ex02_Part01_44.png)
 
-45. Click 'Actions'.
+46. Click 'Actions'.
 <br>![](/exercises/ex2/images/Ex02_Part01_45.png)
 
-46. Click 'Run Preparation'.
+47. Click 'Run Preparation'.
 <br>![](/exercises/ex2/images/Ex02_Part01_46.png)
 
-47. Click the 'Container' icon.
+48. Click the 'Container' icon.
 <br>![](/exercises/ex2/images/Ex02_Part01_47.png)
 
-48. Select 'PHARMA-CLAIMS_ENRICHED_##' (where ## is your user number).
+49. Select 'PHARMA-CLAIMS_ENRICHED_##' (where ## is your user number).
 <br>![](/exercises/ex2/images/Ex02_Part01_48.png)
 
-49. Click 'Apply'.
+50. Click 'Apply'.
 <br>![](/exercises/ex2/images/Ex02_Part01_49.png)
 
-50. This defines it will overwrite the content of the data with this new definition.
+51. This defines it will overwrite the content of the data with this new definition.
 <br>![](/exercises/ex2/images/Ex02_Part01_50.png)
 
-51. Click 'Apply'.
+52. Click 'Apply'.
 <br>![](/exercises/ex2/images/Ex02_Part01_51.png)
 
-52. Click 'Yes'.
+53. Click 'Yes'.
 <br>![](/exercises/ex2/images/Ex02_Part01_52.png)
 
-53. Wait until you see a notification for the task being completed.
+54. Wait until you see a notification for the task being completed.
 <br>![](/exercises/ex2/images/Ex02_Part01_53.png)
 
-54. Click 'Data Intelligence Metadata Explorer'. Click 'Browse Connections'.
+55. Click 'Data Intelligence Metadata Explorer'. Click 'Browse Connections'.
 <br>![](/exercises/ex2/images/Ex02_Part01_54.png)
 
-55. Click 'DI_DATA_LAKE'.
+56. Click 'DI_DATA_LAKE'.
 <br>![](/exercises/ex2/images/Ex02_Part01_55.png)
 
-56. Click 'shared'.
+57. Click 'shared'.
 <br>![](/exercises/ex2/images/Ex02_Part01_56.png)
 
-57. Filter the data with 'TechEd_DAT163_##' (where ## is your user number).
+58. Filter the data with 'TechEd_DAT163_##' (where ## is your user number).
 <br>![](/exercises/ex2/images/Ex02_Part01_57.png)
 
-58. Click 'TechEd_DAT163_##' (where ## is your user number).
+59. Click 'TechEd_DAT163_##' (where ## is your user number).
 <br>![](/exercises/ex2/images/Ex02_Part01_58.png)
 
-59. Click 'View Factsheet' for the file 'PHARMA_CLAIMS_ENRICH_##' (where ## is your user number).
+60. Click 'View Factsheet' for the file 'PHARMA_CLAIMS_ENRICH_##' (where ## is your user number).
 <br>![](/exercises/ex2/images/Ex02_Part01_59.png)
 
-60. The application shows the factsheet associated to the selected dataset.
+61. The application shows the factsheet associated to the selected dataset.
 <br>![](/exercises/ex2/images/Ex02_Part01_60.png)
 
-61. Click 'Column'.
+62. Click 'Column'.
 <br>![](/exercises/ex2/images/Ex02_Part01_61.png)
 
-62. The columns are not profiled anymore. This is because the structure of the data changed when we modified the definition in the recipe associated to the preparation task (added the column POTENCY, changed one column name).
+63. The columns are not profiled anymore. This is because the structure of the data changed when we modified the definition in the recipe associated to the preparation task (added the column POTENCY, changed one column name).
 <br>![](/exercises/ex2/images/Ex02_Part01_62.png)
 
-63. Click 'Profile Data'.
+64. Click 'Profile Data'.
 <br>![](/exercises/ex2/images/Ex02_Part01_63.png)
 
-64. Click 'Yes'.
+65. Click 'Yes'.
 <br>![](/exercises/ex2/images/Ex02_Part01_64.png)
 
-65. Wait to receive both notification that signify that the profiling task started and finished successfully.
+66. Wait to receive both notification that signify that the profiling task started and finished successfully.
 <br>![](/exercises/ex2/images/Ex02_Part01_65.png)
 
-66. Click 'Refresh'.
+67. Click 'Refresh'.
 <br>![](/exercises/ex2/images/Ex02_Part01_66.png)
 
-67. The data are profiled again, there is a new version of the profiling information available. Previous information of the profiling metadata stays available. Click 'Columns'.
+68. The data are profiled again, there is a new version of the profiling information available. Previous information of the profiling metadata stays available. Click 'Columns'.
 <br>![](/exercises/ex2/images/Ex02_Part01_67.png)
 
-68. All the new profiling information are available.
+69. All the new profiling information are available.
 <br>![](/exercises/ex2/images/Ex02_Part01_68.png)
 
-69. Click 'Data Intelligence Metadata Explorer'. Click 'Home'.
+70. Click 'Data Intelligence Metadata Explorer'. Click 'Home'.
 <br>![](/exercises/ex2/images/Ex02_Part01_69.png)
 
 Because you changed the structure of the dataset, you would also need to publish the dataset once again to the catalog.
 However, instead of repeating this operation, you can schedule the publication of the dataset instead of doing it manually every time the structure of the data changes.
 
-70. Click 'scheduled tasks' to create a new scheduled task.
+71. Click 'scheduled tasks' to create a new scheduled task.
 <br>![](/exercises/ex2/images/Ex02_Part01_70.png)
 
-71. Click 'Add' to add a new task.
+72. Click 'Add' to add a new task.
 <br>![](/exercises/ex2/images/Ex02_Part01_71.png)
 
-72. Click the 'Name' field to select the publication name to schedule.
+73. Click the 'Name' field to select the publication name to schedule.
 <br>![](/exercises/ex2/images/Ex02_Part01_72.png)
 
-73. Type 'Pharma Claims Publication ##' in the 'Filter Publications' text field. (Where ## is your user number).
+74. Type 'Pharma Claims Publication ##' in the 'Filter Publications' text field. (Where ## is your user number).
 <br>![](/exercises/ex2/images/Ex02_Part01_73.png)
 
-74. Select your publication (for example if you are user 01, select Pharma Claims Publication 01).
+75. Select your publication (for example if you are user 01, select Pharma Claims Publication 01).
 <br>![](/exercises/ex2/images/Ex02_Part01_74.png)
 
-75. Click 'OK'.
+76. Click 'OK'.
 <br>![](/exercises/ex2/images/Ex02_Part01_75.png)
 
-76. Open the 'Picker' icon to give you few more minutes for the first schedule of the selected publication.
+77. Open the 'Picker' icon to give you few more minutes for the first schedule of the selected publication.
 <br>![](/exercises/ex2/images/Ex02_Part01_76.png)
 
-77. Add 5 more minutes to the original value. For example, if the value was 06:45, set it to 06:50. Click 'OK'.
+78. Add 5 more minutes to the original value. For example, if the value was 06:45, set it to 06:50. Click 'OK'.
 <br>![](/exercises/ex2/images/Ex02_Part01_77.png)
 
-78. Click 'Save'.
+79. Click 'Save'.
 <br>![](/exercises/ex2/images/Ex02_Part01_78.png)
 
-79. Wait until the scheduled publication task is executed.
+80. Wait until the scheduled publication task is executed.
 <br>![](/exercises/ex2/images/Ex02_Part01_79.png)
 
-80. Once done, the status will change to 'completed'.
+81. Once done, the status will change to 'completed'.
 <br>![](/exercises/ex2/images/Ex02_Part01_80.png)
 
-81. Click on the scheduled task to see the details.
+82. Click on the scheduled task to see the details.
 <br>![](/exercises/ex2/images/Ex02_Part01_81.png)
 
-82. Click 'Data Intelligence Metadata Explorer'. Click 'Home'.
+83. Click 'Data Intelligence Metadata Explorer'. Click 'Home'.
 <br>![](/exercises/ex2/images/Ex02_Part01_82.png)
 
-83. You are back to the solution home page.
+84. You are back to the solution home page.
 <br>![](/exercises/ex2/images/Ex02_Part01_83.png)
 
 You have now modified your data preparation recipe to further isolate the data quality issues on a specific column.

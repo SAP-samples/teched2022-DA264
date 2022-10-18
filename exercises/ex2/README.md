@@ -134,28 +134,28 @@ Then you will schedule a publication of this dataset to take into account potant
 <br>![](/exercises/ex2/images/Ex02_Part01_40.png)
 
 42. For now, we can disable this aggregation (but still keep it's definition). Click 'Recipe'.
-<br>![](/exercises/ex2/images/Ex02_Part01_41.png)
-
-43. Click 'More Actions' for the 'Aggregate' action in the recipe.
 <br>![](/exercises/ex2/images/Ex02_Part01_42.png)
 
-44. Click 'Disable'.
+43. Click 'More Actions' for the 'Aggregate' action in the recipe.
 <br>![](/exercises/ex2/images/Ex02_Part01_43.png)
 
-45. The aggregation action is now disabled. The data preparation room shows the data prior executing the aggregation. The filters that were defined were automatically removed (but are still embedded in the definition of the aggregation). At any point of time, we can come back to this data preparation recipe and reactivate this action.
-<br>![](/exercises/ex2/images/Ex02_Part01_44.png)
-
-46. Click 'Actions'.
+44. Click 'Disable'.
 <br>![](/exercises/ex2/images/Ex02_Part01_45.png)
 
-47. Click 'Run Preparation'.
+45. The aggregation action is now disabled. The data preparation room shows the data prior executing the aggregation. The filters that were defined were automatically removed (but are still embedded in the definition of the aggregation). At any point of time, we can come back to this data preparation recipe and reactivate this action.
 <br>![](/exercises/ex2/images/Ex02_Part01_46.png)
 
-48. Click the 'Container' icon.
+46. Click 'Actions'.
 <br>![](/exercises/ex2/images/Ex02_Part01_47.png)
 
-49. Select 'PHARMA-CLAIMS_ENRICHED_##' (where ## is your user number).
+47. Click 'Run Preparation'.
 <br>![](/exercises/ex2/images/Ex02_Part01_48.png)
+
+48. Click the 'Container' icon.
+<br>![](/exercises/ex2/images/Ex02_Part01_49.png)
+
+49. Select 'PHARMA-CLAIMS_ENRICHED_##' (where ## is your user number).
+<br>![](/exercises/ex2/images/Ex02_Part01_50.png)
 
 50. Click 'Apply'.
 <br>![](/exercises/ex2/images/Ex02_Part01_49.png)

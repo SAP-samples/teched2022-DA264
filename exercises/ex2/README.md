@@ -169,8 +169,8 @@ Then you will schedule a publication of this dataset to take into account potant
 53. Click 'Yes'.
 <br>![](/exercises/ex2/images/Ex02_Part01_52.png)
 
-54. Wait until you see a notification for the task being completed.
-<br>![](/exercises/ex2/images/Ex02_Part01_53.png)
+54. Wait until you see a notification for the task being completed. You can click on the refresh button on the bottom of the screen.
+<br>![](/exercises/ex2/images/Ex02_Part01_54_new.png)
 
 55. Click 'Data Intelligence Metadata Explorer'. Click 'Browse Connections'.
 <br>![](/exercises/ex2/images/Ex02_Part01_54.png)
@@ -181,19 +181,19 @@ Then you will schedule a publication of this dataset to take into account potant
 57. Click 'shared'.
 <br>![](/exercises/ex2/images/Ex02_Part01_56.png)
 
-58. Filter the data with 'TechEd_DAT163_##' (where ## is your user number).
+58. Filter the data with '*_##' (where ## is your user number).
 <br>![](/exercises/ex2/images/Ex02_Part01_57.png)
 
-59. Click 'TechEd_DAT163_##' (where ## is your user number).
+59. Click 'TechEd_DA264_##' (where ## is your user number).
 <br>![](/exercises/ex2/images/Ex02_Part01_58.png)
 
-60. Click 'View Factsheet' for the file 'PHARMA_CLAIMS_ENRICH_##' (where ## is your user number).
+60. Click 'View Fact Sheet' for the file 'PHARMA_CLAIMS_ENRICH_##' (where ## is your user number).
 <br>![](/exercises/ex2/images/Ex02_Part01_59.png)
 
-61. The application shows the factsheet associated to the selected dataset.
+61. The application shows the Fact Sheet associated to the selected dataset.
 <br>![](/exercises/ex2/images/Ex02_Part01_60.png)
 
-62. Click 'Column'.
+62. Click 'Columns'.
 <br>![](/exercises/ex2/images/Ex02_Part01_61.png)
 
 63. The columns are not profiled anymore. This is because the structure of the data changed when we modified the definition in the recipe associated to the preparation task (added the column POTENCY, changed one column name).
@@ -205,13 +205,13 @@ Then you will schedule a publication of this dataset to take into account potant
 65. Click 'Yes'.
 <br>![](/exercises/ex2/images/Ex02_Part01_64.png)
 
-66. Wait to receive both notification that signify that the profiling task started and finished successfully.
-<br>![](/exercises/ex2/images/Ex02_Part01_65.png)
-
-67. Click 'Refresh'.
+66. Click 'Refresh'.
 <br>![](/exercises/ex2/images/Ex02_Part01_66.png)
 
-68. The data are profiled again, there is a new version of the profiling information available. Previous information of the profiling metadata stays available. Click 'Columns'.
+67. Wait to see 'Profiled:' time stamp has changed indicating that the profile task finished successfully.
+<br>![](/exercises/ex2/images/Ex02_Part01_65.png)
+
+68. The data is now profiled again, there is a new version of the profiling information available. Click 'Columns'. Note: Previous information of the profiling metadata stays available.
 <br>![](/exercises/ex2/images/Ex02_Part01_67.png)
 
 69. All the new profiling information are available.
@@ -220,7 +220,7 @@ Then you will schedule a publication of this dataset to take into account potant
 70. Click 'Data Intelligence Metadata Explorer'. Click 'Home'.
 <br>![](/exercises/ex2/images/Ex02_Part01_69.png)
 
-Because you changed the structure of the dataset, you would also need to publish the dataset once again to the catalog.
+Because you changed the structure of the dataset, you will also need to publish the dataset once again to the catalog.
 However, instead of repeating this operation, you can schedule the publication of the dataset instead of doing it manually every time the structure of the data changes.
 
 71. Click 'scheduled tasks' to create a new scheduled task.
@@ -232,37 +232,44 @@ However, instead of repeating this operation, you can schedule the publication o
 73. Click the 'Name' field to select the publication name to schedule.
 <br>![](/exercises/ex2/images/Ex02_Part01_72.png)
 
-74. Type 'Pharma Claims Publication ##' in the 'Filter Publications' text field. (Where ## is your user number).
+74. Type 'pharma claims publication ##' in the 'Filter Publications' text field. (Where ## is your user number).
 <br>![](/exercises/ex2/images/Ex02_Part01_73.png)
 
-75. Select your publication (for example if you are user 01, select Pharma Claims Publication 01).
+75. Select your publication (for example if you are user 99, select Pharma Claims Publication 99).
 <br>![](/exercises/ex2/images/Ex02_Part01_74.png)
 
 76. Click 'OK'.
 <br>![](/exercises/ex2/images/Ex02_Part01_75.png)
 
-77. Open the 'Picker' icon to give you few more minutes for the first schedule of the selected publication.
+77. Open the 'Picker' icon for the Start Time to give you few more minutes for the first schedule of the selected publication.
 <br>![](/exercises/ex2/images/Ex02_Part01_76.png)
 
-78. Add 5 more minutes to the original value. For example, if the value was 06:45, set it to 06:50. Click 'OK'.
+78. Click on the minutes and add 5 more minutes to the original value. For example, if the value was 06:45, set it to 06:50. Click 'OK'.
 <br>![](/exercises/ex2/images/Ex02_Part01_77.png)
 
-79. Click 'Save'.
+79. Click 'OK'.
+<br>![](/exercises/ex2/images/Ex02_Part01_78_new.png)
+
+80. Click 'Save'.
 <br>![](/exercises/ex2/images/Ex02_Part01_78.png)
 
-80. Wait until the scheduled publication task is executed.
+81. Wait until the scheduled publication task is executed.
 <br>![](/exercises/ex2/images/Ex02_Part01_79.png)
 
-81. Once done, the status will change to 'completed'.
+82. Click the Refresh icon or check notifications to see when the scheduled publishing task is complete.
+<br>![](/exercises/ex2/images/Ex02_Part01_82_1new.png)
+<br>![](/exercises/ex2/images/Ex02_Part01_82_new.png)
+
+83. Once done, the status will change to 'Completed'.
 <br>![](/exercises/ex2/images/Ex02_Part01_80.png)
 
-82. Click on the scheduled task to see the details.
+84. Click on the scheduled task to see the details.
 <br>![](/exercises/ex2/images/Ex02_Part01_81.png)
 
-83. Click 'Data Intelligence Metadata Explorer'. Click 'Home'.
+85. Click 'Data Intelligence Metadata Explorer'. Click 'Home'.
 <br>![](/exercises/ex2/images/Ex02_Part01_82.png)
 
-84. You are back to the solution home page.
+86. You are back to the solution home page.
 <br>![](/exercises/ex2/images/Ex02_Part01_83.png)
 
 You have now modified your data preparation recipe to further isolate the data quality issues on a specific column.

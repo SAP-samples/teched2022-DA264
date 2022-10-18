@@ -161,7 +161,7 @@ Then you will schedule a publication of this dataset to take into account potant
 <br>![](/exercises/ex2/images/Ex02_Part01_50.png)
 
 51. This defines it will overwrite the content of the data with this new definition.
-<br>![](/exercises/ex2/images/Ex02_Part01_50.png)
+<br>![](/exercises/ex2/images/Ex02_Part01_51_new.png)
 
 52. Click 'Apply'.
 <br>![](/exercises/ex2/images/Ex02_Part01_51.png)

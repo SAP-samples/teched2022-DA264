@@ -291,127 +291,136 @@ After completing these steps you will have created a glossary and business terms
 4. Type 'DRUGS_GLOSSARY_##' in the 'Name' text field (where ## is your user number).
 <br>![](/exercises/ex2/images/Ex02_Part02_04.png)
 
-5. Select the 'GLOSSARY' Template.
+5. Select 'Glossary' from the Template drop down menu.
 <br>![](/exercises/ex2/images/Ex02_Part02_05.png)
 
 6. Type the following description: 'Glossary for pharmaceutical drugs'.
 <br>![](/exercises/ex2/images/Ex02_Part02_06.png)
 
-7. You can create your glossary.
-<br>![](/exercises/ex2/images/Ex02_Part02_07.png)
-
-8. Click 'Save'.
+7. Click 'Save' to create the glossary.
 <br>![](/exercises/ex2/images/Ex02_Part02_08.png)
 
-9. You created a glossary, and now can start enriching it with new terms.
+8. You created a glossary, and now can start enriching it with new terms.
 <br>![](/exercises/ex2/images/Ex02_Part02_09.png)
 
-10. Click '+' to create a new term.
+9. Click '+' to create a new term.
 <br>![](/exercises/ex2/images/Ex02_Part02_10.png)
 
-11. The term creation windows shows up.
+10. The term creation windows shows up.
 <br>![](/exercises/ex2/images/Ex02_Part02_11.png)
 
-12. Type 'Potency' in the 'Name' text field.
+11. Type 'Potency' in the 'Term Name' text field.
 <br>![](/exercises/ex2/images/Ex02_Part02_12.png)
 
-13. Type the following definition for the term: 'Measure of drug activity expressed in terms of the amount required to produce an effect of given intensity'.
+12. Type the following definition for the term: 'Measure of drug activity expressed in terms of the amount required to produce an effect of given intensity'.
 <br>![](/exercises/ex2/images/Ex02_Part02_13.png)
 
-14. Click 'Save'.
+13. Click 'Save'.
 <br>![](/exercises/ex2/images/Ex02_Part02_14.png)
 
-15. Click the 'Go back to term list' icon.
+14. Click the 'Go back to term list' icon.
 <br>![](/exercises/ex2/images/Ex02_Part02_15.png)
 
-16. The 'Term' is created and part of the glossary definitions. Click 'Potency'.
+15. The term 'Potency' is created and part of the glossary definitions. Click 'Potency'.
 <br>![](/exercises/ex2/images/Ex02_Part02_16.png)
 
-17. the term window shows up.
+16. The term window shows up.
 <br>![](/exercises/ex2/images/Ex02_Part02_17.png)
 
-18. Click 'Edit'.
+17. Click 'Edit'.
 <br>![](/exercises/ex2/images/Ex02_Part02_18.png)
 
-19. Click 'Relationships'.
+18. Click 'Relationships'.
 <br>![](/exercises/ex2/images/Ex02_Part02_19.png)
 
-20. Click 'Manage Relationships'.
+19. Click 'Manage Relationships'.
 <br>![](/exercises/ex2/images/Ex02_Part02_20.png)
 
-21. Click 'Datasets or Columns'.
+20. Click 'Datasets or Columns'.
 <br>![](/exercises/ex2/images/Ex02_Part02_21.png)
 
-22. Click 'DI_DATA_LAKE'.
+21. Click 'DI_DATA_LAKE'.
 <br>![](/exercises/ex2/images/Ex02_Part02_22.png)
 
-23. Click 'shared'.
+22. Click 'shared'.
 <br>![](/exercises/ex2/images/Ex02_Part02_23.png)
 
-24. Search 'DAT163_##' (where ## is your user number).
+23. Search '*_##' (where ## is your user number).
 <br>![](/exercises/ex2/images/Ex02_Part02_24.png)
 
-25. Check your dataset (for example PHARMA_CLAIMS_ENRICHED_01 if your user number is 01).
+24. Check your PHARMA_CLAIMS_ENRICHED_## dataset (where ## is your user number).  
 <br>![](/exercises/ex2/images/Ex02_Part02_25.png)
+
+25. You can hover over 'PHARMA_CLAIMS_ENRICHED...' to see the full name.
+<br>![](/exercises/ex2/images/Ex02_Part02_25_new.png)
 
 26.  Click 'View Columns'.
 <br>![](/exercises/ex2/images/Ex02_Part02_26.png)
 
-27. Check 'Potency'. Click 'Save Related Objects'.
+27. Check 'Potency'.
 <br>![](/exercises/ex2/images/Ex02_Part02_27.png)
 
-28. The term is now associated to a dataset and a column in this dataset.
+28. Click 'Save Related Objects'.
+<br>![](/exercises/ex2/images/Ex02_Part02_28_new.png)
+
+29. The term is now associated to a dataset and a column in this dataset.
 <br>![](/exercises/ex2/images/Ex02_Part02_28.png)
 
-29. Click 'Data Intelligence Metadata Explorer'. Click 'Home'.
+30. Click 'Data Intelligence Metadata Explorer'. 
 <br>![](/exercises/ex2/images/Ex02_Part02_29.png)
 
-30. Type 'CLAIMS' in the search bar.
+31. Click 'Home'.
+<br>![](/exercises/ex2/images/Ex02_Part02_31_new.png)
+
+32. Type 'claims' in the search bar and press the Enter key.
 <br>![](/exercises/ex2/images/Ex02_Part02_30.png)
 
-31. Press Enter key.
-<br>![](/exercises/ex2/images/Ex02_Part02_31.png)
-
-32. The Catalog shows the results of the dataset that matches the search pattern.
+33. The Catalog shows the results of the dataset that matches the search pattern.
 <br>![](/exercises/ex2/images/Ex02_Part02_32.png)
 
-33. Click the 'Filter' icon.
+34. Click the 'Filter' icon.
 <br>![](/exercises/ex2/images/Ex02_Part02_33.png)
 
-34. Change the Search string to 'CLAIMS_*_##' *(where ## is your user number).
+35. Change the Search string to 'claims*##' *(where ## is your user number).
 <br>![](/exercises/ex2/images/Ex02_Part02_34.png)
 
-35. Click 'Apply'.
+36. Click 'Apply'.
 <br>![](/exercises/ex2/images/Ex02_Part02_35.png)
 
-36. Click 'More Actions'.
+37. Click 'More Actions'.
 <br>![](/exercises/ex2/images/Ex02_Part02_36.png)
 
-37. Click 'View Factsheet'.
+38. Click 'View Factsheet'.
 <br>![](/exercises/ex2/images/Ex02_Part02_37.png)
 
-38. Click 'Overview'.
+39. Click 'Overview'.
 <br>![](/exercises/ex2/images/Ex02_Part02_38.png)
  
-39. Click 'Relationships'.
+40. Click 'Relationships'.
 <br>![](/exercises/ex2/images/Ex02_Part02_39.png)
 
-40. Click 'Terms and Tags'.
+41. Click 'Dataset Terms and Tags'.
 <br>![](/exercises/ex2/images/Ex02_Part02_40.png)
 
-41. The glossary term 'Potency' is associated to the dataset. Click 'Columns'.
+42. The glossary term 'Potency' is associated to the dataset.
 <br>![](/exercises/ex2/images/Ex02_Part02_41.png)
 
-42. Click 'POTENCY'.
+43. Click 'Columns'.
+<br>![](/exercises/ex2/images/Ex02_Part02_43_new.png)
+
+44. Click 'POTENCY'.
 <br>![](/exercises/ex2/images/Ex02_Part02_42.png)
 
-43. The glossary term 'Potency' is associated to the 'POTENCY' column of the dataset.
+45. The glossary term 'Potency' is associated to the 'POTENCY' column of the dataset.
 <br>![](/exercises/ex2/images/Ex02_Part02_43.png)
 
-44. Click 'Data Intelligence Metadata Explorer'. Click 'Home'.
+46. Click 'Data Intelligence Metadata Explorer'. 
 <br>![](/exercises/ex2/images/Ex02_Part02_44.png)
 
-45. You are back to the Data Intellience Metadata Explorer Home page.
+47. Click 'Home'.
+<br>![](/exercises/ex2/images/Ex02_Part02_44_ner.png)
+
+48. You are back to the Data Intellience Metadata Explorer Home page.
 <br>![](/exercises/ex2/images/Ex02_Part02_45.png)
 
 You have now created a glossary and business terms and associated them to your enriched dataset.

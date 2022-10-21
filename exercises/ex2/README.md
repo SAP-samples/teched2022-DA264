@@ -705,138 +705,163 @@ After completing these steps you will have fixed data quality issues using the d
 1. Click 'View Preparations'.
 <br>![](/exercises/ex2/images/Ex02_Part04_01.png)
 
-2. Click 'Preparation for PHARMA_CLAIMS_ENRICHED_##.csv' (where ## is your user number).
+2. Click 'Preparation for PHARMA_CLAIMS_ENRICHED_##.csv' (where ## is your user number). Note you can always use the 'Filter Preparations' to narrow the results.
 <br>![](/exercises/ex2/images/Ex02_Part04_02.png)
 
-3. Click the header for the column named 'DRUG_NAME'.
+3. Notice in the column DRUG_NAME' values of 'Nystatine'.
+<br>![](/exercises/ex2/images/Ex02_Part04_03_new.png)
+
+4. Click the header for the column named 'DRUG_NAME'.
 <br>![](/exercises/ex2/images/Ex02_Part04_03.png)
 
-4. Click 'Replace'.
+5. Click 'Replace'.
 <br>![](/exercises/ex2/images/Ex02_Part04_04.png)
 
-5. Type 'Nystatine' for the search string and type 'Nystatin' for the 'Replace by'.
+6. Type 'Nystatine' for the search string.
 <br>![](/exercises/ex2/images/Ex02_Part04_05.png)
 
-6. Click 'Apply'.
+7. Type 'Nystatin' for the 'Replace by'.
+<br>![](/exercises/ex2/images/Ex02_Part04_05_new.png)
+
+8. Notice in the column DRUG_NAME' values of Nystatine'.
 <br>![](/exercises/ex2/images/Ex02_Part04_06.png)
 
-7. The value 'Nystatine' was replaced by 'Nystatin'.
+9. Click 'Apply'.
+<br>![](/exercises/ex2/images/Ex02_Part04_06.png)
+
+10. The value 'Nystatine' was replaced by 'Nystatin'.
 <br>![](/exercises/ex2/images/Ex02_Part04_07.png)
 
-8. Click 'Replace'.
+11. Notice in the column DRUG_NAME' values of 'Acetaminofen'.
+<br>![](/exercises/ex2/images/Ex02_Part04_03_new_2.png)
+
+12. Click 'Replace'.
 <br>![](/exercises/ex2/images/Ex02_Part04_08.png)
 
-9. Type 'Acetaminofen' for the search string and type 'Acetaminophen' for the 'Replace by'.
+13. Type 'Acetaminofen' for the search string.
 <br>![](/exercises/ex2/images/Ex02_Part04_09.png)
 
-10. Click 'Apply'.
-<br>![](/exercises/ex2/images/Ex02_Part04_10.png)
-
-11. The value 'Acetaminofen' was replaced by 'Acetaminophen'.
-<br>![](/exercises/ex2/images/Ex02_Part04_11.png)
-
-12. Click '<' to go back to the 'Rulebook Dataset Results'.
-<br>![](/exercises/ex2/images/Ex02_Part04_12.png)
-
-13. Click '<' to go back to the 'Run Preparation'.
-<br>![](/exercises/ex2/images/Ex02_Part04_13.png)
-
-14. Type 'REMEDIATED_DATA_##' for the 'Dataset Name' (where ## is your user number).
-<br>![](/exercises/ex2/images/Ex02_Part04_14.png)
+14. Type 'Acetaminophen' for the 'Replace by'.
+<br>![](/exercises/ex2/images/Ex02_Part04_09_new.png)
 
 15. Click 'Apply'.
+<br>![](/exercises/ex2/images/Ex02_Part04_10.png)
+
+16. The value 'Acetaminofen' was replaced by 'Acetaminophen'.
+<br>![](/exercises/ex2/images/Ex02_Part04_07_new.png)
+
+17. Click '<' to go back to the 'Rulebook Dataset Results'.
+<br>![](/exercises/ex2/images/Ex02_Part04_12.png)
+
+18. Click 'Run Preparation'.
+<br>![](/exercises/ex2/images/Ex02_Part04_13.png)
+
+19. Type 'REMEDIATED_DATA_##' for the 'Dataset Name' (where ## is your user number).
+<br>![](/exercises/ex2/images/Ex02_Part04_14.png)
+
+20. Click 'Apply'.
 <br>![](/exercises/ex2/images/Ex02_Part04_15.png)
 
-16. Click 'Data Intelligence Metadata Explorer'. Click 'Home'.
-<br>![](/exercises/ex2/images/Ex02_Part04_16.png)
+21. Click 'Data Intelligence Metadata Explorer'. 
+<br>![](/exercises/ex2/images/Ex02_Part03_83_new.png)
 
-You fixed data quality issues using the data preparation recipe that was automatically generated with the execution of the rulebook.
-In a normal process, the output dataset resulting of that data remediation process would be used in order to update the original table that contains the data quality issues using workflow and approovals.
-For this hands-on, you can use the data preparation recipe you created to simulate the update process of the data and see the results in the rulebook.
+22. Click 'Home'.
+<br>![](/exercises/ex2/images/Ex02_Part03_83_new_2.png)
 
-17. Click 'View Preparations'.
+You fixed data quality issues using the data preparation recipe that was automatically generated with the execution of your rulebook.
+In a normal process, the output dataset resulting of that data remediation process would be used in order to update the original table that contains the data quality issues using workflow and approvals.
+For this hands-on, you will use the data preparation recipe you created to simulate the update process of the data and see the results in the rulebook.
+
+23. Click 'View Preparations'.
 <br>![](/exercises/ex2/images/Ex02_Part04_17.png)
 
-18. Click 'DRUG_##' (where ## is your user number).
+24. Click 'DRUG_##' (where ## is your user number).
 <br>![](/exercises/ex2/images/Ex02_Part04_18.png)
 
-19. Click 'Recipe'.
+25. Click 'Recipe'.
 <br>![](/exercises/ex2/images/Ex02_Part04_19.png)
 
-20. Edit the 'Enrich' action.
+26. Edit the 'Enrich' action.
 <br>![](/exercises/ex2/images/Ex02_Part04_20.png)
 
-21. Click '+' to add a new source.
+27. Click '+' to add a new source.
 <br>![](/exercises/ex2/images/Ex02_Part04_21.png)
 
-22. Click 'Browse'.
+28. Click 'Browse'.
 <br>![](/exercises/ex2/images/Ex02_Part04_22.png)
 
-23. Select the connection 'DI_DATA_LAKE'.
+29. Select the connection 'DI_DATA_LAKE' from the drop down list.
 <br>![](/exercises/ex2/images/Ex02_Part04_23.png)
 
-24. Click 'shared'.
+30. Click 'shared'.
 <br>![](/exercises/ex2/images/Ex02_Part04_24.png)
 
-25. Type 'TechEd_DAT163_##' in the 'Filter items' to search for your folder (where ## is your user number).
+31. Type in '99' in the 'Filter items' search bar (where ## is your user number).
 <br>![](/exercises/ex2/images/Ex02_Part04_25.png)
 
-26. Click 'TechEd_DAT163_##' (where ## is your user number).
+32. Click 'TechEd_DA264_##' (where ## is your user number).
 <br>![](/exercises/ex2/images/Ex02_Part04_26.png)
 
-27. Click 'REMEDIATED_DATA_##' (where ## is your user number).
+33. Click 'REMEDIATED_DATA_##' (where ## is your user number).  Note: You can use the Filter items search to narrow down our results.
 <br>![](/exercises/ex2/images/Ex02_Part04_27.png)
 
-28. Click 'OK'.
+34. Click 'OK'.
 <br>![](/exercises/ex2/images/Ex02_Part04_28.png)
 
-29. The remediated dataset was added to the source.
+35. The remediated dataset was added to the list of sources.
 <br>![](/exercises/ex2/images/Ex02_Part04_29.png)
 
-30. Click 'X' to delete the join with the dataset 'D1'.
+36. Click 'X' to delete the join with the dataset 'D1'.
 <br>![](/exercises/ex2/images/Ex02_Part04_30.png)
 
-31. Drag and drop the 'REMEDIATED_DATA_##' datasource to the left side of 'P1' (where 3 is your user number).
+37. Drag and drop the 'REMEDIATED_DATA_##' datasource to the left side of 'P1' (where # is your user number).
 <br>![](/exercises/ex2/images/Ex02_Part04_31.png)
 
-32. Select 'Left Join'.
+38. Select 'Left Join'.
 <br>![](/exercises/ex2/images/Ex02_Part04_32.png)
 
-33. Scroll down and uncheck 'VALID_DRUG' and 'POTENCY' under the 'left source' list of columns.
+39. Scroll down and uncheck 'VALID_DRUG' and 'POTENCY' under the 'left source' list of columns.
 <br>![](/exercises/ex2/images/Ex02_Part04_33.png)
 
-34. Scroll down and uncheck 'ORIG_PRODUCT', 'DOSAGE', 'ROUTE_ADMINISTERED', and 'NOTES' from the right source list of columns.
+40. Scroll down and uncheck 'ORIG_PRODUCT', 'DOSAGE', 'ROUTE_ADMINISTERED', and 'NOTES' from the right source list of columns.
 <br>![](/exercises/ex2/images/Ex02_Part04_34.png)
 
-35. Click 'Apply'.
+41. Click 'Apply'.
 <br>![](/exercises/ex2/images/Ex02_Part04_35.png)
 
-36. Click 'Apply Enrichment'.
+42. Click 'Apply Enrichment'.
 <br>![](/exercises/ex2/images/Ex02_Part04_36.png)
 
-37. Click 'POTENCY_0'.
+43. Click 'POTENCY_0'.
 <br>![](/exercises/ex2/images/Ex02_Part04_37.png)
 
-38. Click 'Rename'.
+44. Click 'Rename'.
 <br>![](/exercises/ex2/images/Ex02_Part04_38.png)
 
-39. Type 'POTENCY' for the 'New Column Name'.
+45. Type 'POTENCY' for the 'New Column Name'.
 <br>![](/exercises/ex2/images/Ex02_Part04_39.png)
 
-40. Click 'Apply'.
+46. Click 'Apply'.
 <br>![](/exercises/ex2/images/Ex02_Part04_40.png)
 
-41. Click '<' to come back to the 'Run Preparation' menu.
+47. Click '<' to come back to the 'Run Preparation' menu.
 <br>![](/exercises/ex2/images/Ex02_Part04_41.png)
 
-42. You can now run your preparation to create a new curated dataset.
+48. You can now run your preparation to create a new curated dataset.
 <br>![](/exercises/ex2/images/Ex02_Part04_42.png)
 
-43. Type 'PHARMA_CLAIMS_CURATED_##' for the 'Dataset Name' (Where ## is your user number).
+49. Type 'PHARMA_CLAIMS_CURATED_##' for the 'Dataset Name' (Where ## is your user number).
 <br>![](/exercises/ex2/images/Ex02_Part04_43.png)
 
-44. Click 'Apply'.
+50. Click 'Apply'.
 <br>![](/exercises/ex2/images/Ex02_Part04_44.png)
+
+
+
+******************
+******************
+
+
 
 45. Click 'Data Intelligence Metadata Explorer'. Click 'Home'.
 <br>![](/exercises/ex2/images/Ex02_Part04_45.png)

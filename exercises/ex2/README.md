@@ -724,7 +724,7 @@ After completing these steps you will have fixed data quality issues using the d
 <br>![](/exercises/ex2/images/Ex02_Part04_05_new.png)
 
 8. Notice in the column DRUG_NAME' values of Nystatine'.
-<br>![](/exercises/ex2/images/Ex02_Part04_06.png)
+<br>![](/exercises/ex2/images/Ex02_Part04_03_new.png)
 
 9. Click 'Apply'.
 <br>![](/exercises/ex2/images/Ex02_Part04_06.png)

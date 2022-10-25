@@ -46,7 +46,7 @@ UPDATE: ADD URL link to DI
 <br>![](/exercises/ex1/images/Ex01_Part01_03_new.png)
 
 Note: 
-* where # is the number assigned to you.
+* where ## is the number assigned to you.
 * If your user number is 99 then your login is 'teched-da264-99'.
   
 4. Enter the Password that was assigned to you, for your Password.
@@ -73,7 +73,7 @@ After completing these steps you will have discovered dataset stored in a databa
 3. You are currently viewing a connections in a Grid View layout. Click 'List View'.
 <br>![](/exercises/ex1/images/Ex01_Part03_03.png)
 
-4. This allows you to view a list of connections.
+4. This allows you to view a list of connections.  Click '...' (More Actions) for 'HANA_DEMO'.
 <br>![](/exercises/ex1/images/Ex01_Part03_04.png)
 
 5. Select 'View Capabilities' for the 'HANA_DEMO' connection.
@@ -142,10 +142,10 @@ You can easily profile the data and get access to metadata information. It also 
 <br>![](/exercises/ex1/images/Ex01_Part03_24.png)
 
 25. Click 'Data Intelligence Metadata Explorer'.
-<br>![](/exercises/ex1/images/Ex01_Part03_25.png)
+<br>![](/exercises/ex1/images/ClickDI.png)
 
 26. Click 'Home'.
-<br>![](/exercises/ex1/images/Ex01_Part03_26.png)
+<br>![](/exercises/ex1/images/ClickHome)
 
 You have now discovered a table in a database, profiled the data, and found some data quality issues.
 
@@ -266,7 +266,7 @@ Additionally you will profile this dataset, add a rating and description and pub
 20. The selected PHARMA_CLAIMS_## dataset can now be used to merge data (where ## is your user number).
 <br>![](/exercises/ex1/images/Ex01_Part04_20.png)
 
-21. Drag and drop 'PHARMA_CLAIMS' on the cell on the left hand-side of the main dataset.
+21. Drag and drop 'PHARMA_CLAIMS_##' on the cell on the left hand-side of the main dataset (where ## is your user number).
 <br>![](/exercises/ex1/images/Ex01_Part04_21.png)
 
 22. Select 'Left Join'.
@@ -297,7 +297,7 @@ There are potential multiple reasons for that. Some reasons might be spelling mi
 You can now use this enriched dataset to isolate the data quality issues to further understand the data.
 
 29. Click 'Actions'.
-<br>![](/exercises/ex1/images/Ex01_Part04_29.png)
+<br>![](/exercises/ex1/images/Action_prep.png)
 
 30. Click 'Add Columns'.
 <br>![](/exercises/ex1/images/Ex01_Part04_30.png)
@@ -315,9 +315,9 @@ You can now use this enriched dataset to isolate the data quality issues to furt
 <br>![](/exercises/ex1/images/Ex01_Part04_34.png)
 
 35. Click 'Apply'.
-<br>![](/exercises/ex1/images/Ex01_Part04_35.png)
+<br>![](/exercises/ex1/images/Apply.png)
 
-36. A new column is now created.
+36. A new column, ValidClaim' is now created.
 <br>![](/exercises/ex1/images/Ex01_Part04_36.png)
 
 37. Select the column 'DRUG_NAME_0'.
@@ -333,92 +333,110 @@ You can now use this enriched dataset to isolate the data quality issues to furt
 <br>![](/exercises/ex1/images/Ex01_Part04_40.png)
 
 41. Click 'Run Preparation'.
-<br>![](/exercises/ex1/images/Ex01_Part04_41.png)
+<br>![](/exercises/ex1/images/RunPreparation.png)
 
 42. Type 'PHARMA_CLAIMS_ENRICHED_##' (where ## is your user number) for the 'Dataset Name'.
 <br>![](/exercises/ex1/images/Ex01_Part04_42.png)
 
 43. Click 'Apply'.
-<br>![](/exercises/ex1/images/Ex01_Part04_43.png)
+<br>![](/exercises/ex1/images/Apply.png)
 
 44. Click 'Data Intelligence Metadata Explorer'.
 <br>![](/exercises/ex1/images/Ex01_Part04_44.png)
 
-45. Select 'Monitor' and click 'Monitor Tasks'.
+45. Select 'Monitor'.
 <br>![](/exercises/ex1/images/Ex01_Part04_45.png)
 
-46. 'Monitoring' shows the current running tasks. Wait for your task to complete.
+46. Click 'Monitor Tasks'.
+<br>![](/exercises/ex1/images/Ex01_Part04_45_new.png)
+
+47. 'Monitoring' shows the current running tasks. Wait for your task to complete.
 <br>![](/exercises/ex1/images/Ex01_Part04_46.png)
 
-47. The task is completed.
+48. The task is completed.
 <br>![](/exercises/ex1/images/Ex01_Part04_47.png)
 
-48. Click 'Data Intelligence Metadata Explorer', and click 'HOME'.
-<br>![](/exercises/ex1/images/Ex01_Part04_48.png)
+49. Click 'Data Intelligence Metadata Explorer'.
+<br>![](/exercises/ex1/images/ClickDI.png)
 
-49. Click 'Browse Connections'.
-<br>![](/exercises/ex1/images/Ex01_Part04_49.png)
+50. Click 'HOME'.
+<br>![](/exercises/ex1/images/ClickHome.png)
 
-50. Click 'DI_DATA_LAKE'.
-<br>![](/exercises/ex1/images/Ex01_Part04_50.png)
+51. Click 'Browse Connections'.
+<br>![](/exercises/ex1/images/Ex01_Part02_01.png)
 
-51. Click 'shared'.
-<br>![](/exercises/ex1/images/Ex01_Part04_51.png)
+52. Click 'DI_DATA_LAKE'.
+<br>![](/exercises/ex1/images/Ex01_Part02_02.png
 
-52. Type '*_##' (where ## is your user number) in the Filter field.
+53. Click 'shared'.
+<br>![](/exercises/ex1/images/Ex01_Part02_03.png)
+
+54. Type '*_##' (where ## is your user number) in the Filter field.
 <br>![](/exercises/ex1/images/Ex01_Part04_52.png)
 
-53. Click TechEd_DAT163_## (where ## is your user number).
+55. Click TechEd_DAT163_## (where ## is your user number).
 <br>![](/exercises/ex1/images/Ex01_Part04_53.png)
 
-54. Click 'More Actions' on the newly created dataset named PHARMA_CLAIMS_ENRICH_## (Where ## is your user number).
+56. Click 'More Actions' ('...') newly created dataset named PHARMA_CLAIMS_ENRICH_## (where ## is your user number).
 <br>![](/exercises/ex1/images/Ex01_Part04_54.png)
 
-55. Select 'View Fact Sheet', Click 'Overview'.
+57. Select 'View Fact Sheet'.
 <br>![](/exercises/ex1/images/Ex01_Part04_55.png)
 
-56. The Fact Sheet for the dataset is not profiled and has not been published.
+57. Click 'Overview'.
+<br>![](/exercises/ex1/images/Ex01_Part04_55_new.png)
+
+58. The Fact Sheet for the dataset is not profiled and has not been published.
 <br>![](/exercises/ex1/images/Ex01_Part04_56.png)
 
-57. Click the 'Profiling' icon.
+59. Click the 'Profiling' icon.
 <br>![](/exercises/ex1/images/Ex01_Part04_57.png)
 
-58. Click 'Yes'.
+60. Click 'Yes'.
 <br>![](/exercises/ex1/images/Ex01_Part04_58.png)
 
-59. Wait for the profiling to be executed (there will be two notifications which you can check by clicking on the notification icon). Then Click 'Refresh'.
+61. Wait for the profiling to be executed (there will be two notifications which you can check by clicking on the notification icon). Then Click 'Refresh'.
 <br>![](/exercises/ex1/images/Ex01_Part04_59.png)
 
-60. The dataset is now profiled.
+62. The dataset is now profiled.
 <br>![](/exercises/ex1/images/Ex01_Part04_60.png)
 
-61. Click '<' to come back to the connection browser.
+63. Click '<' to come back to the connection browser.
 <br>![](/exercises/ex1/images/Ex01_Part04_61.png)
 
-62. Click 'More Actions'.
+64. Click 'More Actions' ('...') for PHARMA_CLAIMS_ENRICHED_## (where ## is your user number).
 <br>![](/exercises/ex1/images/Ex01_Part04_62.png)
 
-63. Click 'New Publication'.
+65. Click 'New Publication'.
 <br>![](/exercises/ex1/images/Ex01_Part04_63.png)
 
-64. Type 'Pharma Claims Publication ##' (where ## is your user number) for the 'Name' text field. Type 'Publication for enriched claimed data' for the 'Description' text field.
+66. Type 'Pharma Claims Publication ##' (where ## is your user number) for the 'Name' text field. 
 <br>![](/exercises/ex1/images/Ex01_Part04_64.png)
 
-65. Click 'Publish'.
+67. Type 'Publication for enriched claimed data' for the 'Description' text field.
+<br>![](/exercises/ex1/images/Ex01_Part04_64_new.png)
+
+68. Click 'Publish'.
 <br>![](/exercises/ex1/images/Ex01_Part04_65.png)
 
-66. The application sends a notification for the publication task trigger.
+69. The application sends a notification for the publication task trigger.
 <br>![](/exercises/ex1/images/Ex01_Part04_66.png)
 
-UPDATE - I DID NOT GET A NOTIFICATION THAT PUBLICATION COMPLETED
-67. The application sends another notification when the publication task is finished.
+70. The application sends another notification when the publication task is finished.
 <br>![](/exercises/ex1/images/Ex01_Part04_67.png)
 
-68. Click 'Refresh'.
+71. Click 'Refresh'.
 <br>![](/exercises/ex1/images/Ex01_Part04_68.png)
 
-69. You can now see that the dataset is both profiled and published in the application catalog.
+72. You can now see that the dataset is both profiled and published in the application catalog.
 <br>![](/exercises/ex1/images/Ex01_Part04_69.png)
+
+
+
+*******************************
+*******************************
+
+
 
 70. Click 'View Fact Sheet'.
 <br>![](/exercises/ex1/images/Ex01_Part04_70.png)

@@ -79,83 +79,94 @@ Then you will schedule a publication of this dataset to take into account potant
 23. This filters the data with only claims containing an invalid drug.
 <br>![](/exercises/ex2/images/Ex02_Part01_23.png)
 
-24. Click the menu icon next to the 'DRUG_NAME' column header, and sort acending.
+24. Click the menu icon next to the 'DRUG_NAME' column header..
 <br>![](/exercises/ex2/images/Ex02_Part01_24.png)
 
-25. The data are sorted by 'DRUG_NAME' by ascending order, but the first records contains null values.
+25. Click the sort ascending icon.
+<br>![](/exercises/ex2/images/Ex02_Part01_24_new.png)
+
+26. The data are sorted by 'DRUG_NAME' by ascending order, but the first records contains null values.
 <br>![](/exercises/ex2/images/Ex02_Part01_25.png)
 
-26. Click 'Add Filter' and Select 'DRUG_NAME'.
+27. Click 'Add Filter'.
 <br>![](/exercises/ex2/images/Ex02_Part01_26.png)
 
-27. Click the '=' icon associated to the 'DRUG_NAME' filter.
+28. Select 'DRUG_NAME'.
+<br>![](/exercises/ex2/images/Ex02_Part01_26_new.png)
+
+29. Click the '=' icon associated to the 'DRUG_NAME' filter.
 <br>![](/exercises/ex2/images/Ex02_Part01_27.png)
 
-28. Select 'Not Null'.
+30. Select 'Not Null'.
 <br>![](/exercises/ex2/images/Ex02_Part01_28.png)
 
-29. This shows only the claims with unknown drugs which are not null.
+31. This shows only the claims with unknown drugs which are not null.
 <br>![](/exercises/ex2/images/Ex02_Part01_29.png)
 
-30. Click '<' to come back to the 'Run Preparation' menu.
+32. Click '<' to come back to the Actions menu.
 <br>![](/exercises/ex2/images/Ex02_Part01_30.png)
 
-31. Click once again '<' to come back to the list of available actions.
-<br>![](/exercises/ex2/images/Ex02_Part01_30b.png)
-
-32. Click 'Aggregate Preparation'.
+33. Click 'Aggregate Preparation'.
 <br>![](/exercises/ex2/images/Ex02_Part01_31.png)
 
-33. The filter defined in the main (previous screen) data preparation are automatically pre-defined in the aggregation window.
+34. The filter defined in the main (previous screen) data preparation are automatically pre-defined in the aggregation window.
 <br>![](/exercises/ex2/images/Ex02_Part01_32.png)
 
-34. Drag and drop 'DRUG_NAME' to 'Output Columns'.
+35. Drag and drop 'DRUG_NAME' to 'Output Columns'.
 <br>![](/exercises/ex2/images/Ex02_Part01_33.png)
 
-35. This defines the aggregation with a preview of the result at the bottom half of the screen.
+36. This defines the aggregation with a preview of the result at the bottom half of the screen.
 <br>![](/exercises/ex2/images/Ex02_Part01_34.png)
 
-36. Drag and drop 'DRUG_NAME' in the 'Output Columns' area.
+37. Drag and drop 'DRUG_NAME' in the 'Output Columns' area.
 <br>![](/exercises/ex2/images/Ex02_Part01_35.png)
 
-37. This will generate an expected error message as right now the system considers we are trying to aggregate data twice on the same column.
+38. This will generate an expected error message as right now the system considers we are trying to aggregate data twice on the same column.
 <br>![](/exercises/ex2/images/Ex02_Part01_36.png)
 
-38. Change the Aggregation function from 'No Aggregation' to 'Count'.
+39. Change the Aggregation function from 'No Aggregation' to 'Count'.
 <br>![](/exercises/ex2/images/Ex02_Part01_37.png)
 
-39. This shows the preview of the aggregation that contains the distinct values of drug names with their respective count.
+40. This shows the preview of the aggregation that contains the distinct values of drug names with their respective count.
 <br>![](/exercises/ex2/images/Ex02_Part01_38.png)
 
-40. Click 'Apply Aggregation'.
+41. Click 'Apply Aggregation'.
 <br>![](/exercises/ex2/images/Ex02_Part01_39.png)
 
-41. The main data preparation room now contains the aggregated data. The data could be exported as-is (as this is based only on a sample of the data) for further study and analysis. We can see already some simple data quality issues in the name of the drugs which we will curate later on.
+42. The main data preparation room now contains the aggregated data. The data could be exported as-is (as this is based only on a sample of the data) for further study and analysis. We can see already some simple data quality issues in the name of the drugs which we will curate later on.
 <br>![](/exercises/ex2/images/Ex02_Part01_40.png)
 
-42. For now, we can disable this aggregation (but still keep it's definition). Click 'Recipe'.
+43. For now, we can disable this aggregation (but still keep it's definition). Click 'Recipe'.
 <br>![](/exercises/ex2/images/Ex02_Part01_42.png)
 
-43. Click 'More Actions' for the 'Aggregate' action in the recipe.
+44. Click 'More Actions' ('...') for the 'Aggregate' action in the recipe.
 <br>![](/exercises/ex2/images/Ex02_Part01_43.png)
 
-44. Click 'Disable'.
+45. Click 'Disable'.
 <br>![](/exercises/ex2/images/Ex02_Part01_44.png)
 
-45. The aggregation action is now disabled. The data preparation room shows the data prior executing the aggregation. The filters that were defined were automatically removed (but are still embedded in the definition of the aggregation). At any point of time, we can come back to this data preparation recipe and reactivate this action.
+46. The aggregation action is now disabled. The data preparation room shows the data prior executing the aggregation. The filters that were defined were automatically removed (but are still embedded in the definition of the aggregation). At any point of time, we can come back to this data preparation recipe and reactivate this action.
 <br>![](/exercises/ex2/images/Ex02_Part01_45.png)
 
-46. Click 'Actions'.
+47. Click 'Actions'.
 <br>![](/exercises/ex2/images/Ex02_Part01_46.png)
 
-47. Click 'Run Preparation'.
+48. Click 'Run Preparation'.
 <br>![](/exercises/ex2/images/Ex02_Part01_47.png)
 
-48. Click the 'Container' icon.
+49. Click the 'Container' icon.
 <br>![](/exercises/ex2/images/Ex02_Part01_48.png)
 
-49. Select 'PHARMA-CLAIMS_ENRICHED_##' (where ## is your user number).
+50. Select 'PHARMA-CLAIMS_ENRICHED_##' (where ## is your user number).
 <br>![](/exercises/ex2/images/Ex02_Part01_49.png)
+
+
+***************************************
+***************************************
+
+
+***************************************
+
 
 50. Click 'Apply'.
 <br>![](/exercises/ex2/images/Ex02_Part01_50.png)

@@ -315,7 +315,106 @@ After completing these steps you will have created a glossary and business terms
 8. You created a glossary, and now can start enriching it with new terms.
 <br>![](/exercises/ex2/images/Ex02_Part02_09.png)
 
-9. Click '+' to create a new term.
+18. Click 'Edit Term Template'.
+<br>![](/exercises/ex2/images/Ex02_Part02_Attribute_01.png)
+
+18. Click 'Custom Attribute'.
+<br>![](/exercises/ex2/images/Ex02_Part02_Attribute_02.png)
+
+18. Click 'Add Custom Attribute Group'.
+<br>![](/exercises/ex2/images/Ex02_Part02_Attribute_03.png)
+
+18. Type 'Pharma Drug Attributes' for 'Enter Group Name'.
+<br>![](/exercises/ex2/images/Ex02_Part02_Attribute_04.png)
+
+18. Click 'Add Attribute'.
+<br>![](/exercises/ex2/images/Ex02_Part02_Attribute_05.png)
+
+18. Type 'Form' for Name.
+<br>![](/exercises/ex2/images/Ex02_Part02_Attribute_06.png)
+
+18. Type 'Pharmaceutical form of medicinal products' for Description.
+<br>![](/exercises/ex2/images/Ex02_Part02_Attribute_07.png)
+
+18. Type 'String' from the Type drop down list.
+<br>![](/exercises/ex2/images/Ex02_Part02_Attribute_08.png)
+
+18. Type 'List of Values' from the Validation Type drop down list.
+<br>![](/exercises/ex2/images/Ex02_Part02_Attribute_09.png)
+
+18. Type 'Liquid' and the Enter key for Valid Values.
+<br>![](/exercises/ex2/images/Ex02_Part02_Attribute_10.png)
+
+18. Type 'Tablet' <press the Enter key>, 'Capsules' <press the Enter key>. and 'Inhalers' <press the Enter key> adding to the list of Valid Values.
+<br>![](/exercises/ex2/images/Ex02_Part02_Attribute_11.png)
+
+18. Click 'Ok'.
+<br>![](/exercises/ex2/images/Ex02_Part02_Attribute_12.png)
+
+18. Click 'Add Attribute'.
+<br>![](/exercises/ex2/images/Ex02_Part02_Attribute_13.png)
+
+18. Type 'Last Reviewed' for Name.
+<br>![](/exercises/ex2/images/Ex02_Part02_Attribute_14.png)
+
+18. Type 'Date last reviewed' for Description.
+<br>![](/exercises/ex2/images/Ex02_Part02_Attribute_15.png)
+
+18. Type 'Date' from the Type drop down list.
+<br>![](/exercises/ex2/images/Ex02_Part02_Attribute_16.png)
+
+18. Click 'Ok'.
+<br>![](/exercises/ex2/images/Ex02_Part02_Attribute_17.png)
+
+18. Click 'Add Attribute'.
+<br>![](/exercises/ex2/images/Ex02_Part02_Attribute_18.png)
+
+18. Select 'Right' from Display Column drop down menu.
+<br>![](/exercises/ex2/images/Ex02_Part02_Attribute_19.png)
+
+18. Type 'Reviewer' for Name.
+<br>![](/exercises/ex2/images/Ex02_Part02_Attribute_20.png)
+
+18. Type 'Reviewer's name' for Description.
+<br>![](/exercises/ex2/images/Ex02_Part02_Attribute_21.png)
+
+18. Type 'String' from the Type drop down list.
+<br>![](/exercises/ex2/images/Ex02_Part02_Attribute_22.png)
+
+18. Click 'Ok'.
+<br>![](/exercises/ex2/images/Ex02_Part02_Attribute_23.png)
+
+18. Click 'Last Reviewed'.
+<br>![](/exercises/ex2/images/Ex02_Part02_Attribute_24.png)
+
+18. Click '>', to move 'Last Reviewed' to the right column and under 'Reviewer'.
+<br>![](/exercises/ex2/images/Ex02_Part02_Attribute_25.png)
+
+18. Click 'Save'.
+<br>![](/exercises/ex2/images/Ex02_Part02_Attribute_26.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+19. Click '+' to create a new term.
 <br>![](/exercises/ex2/images/Ex02_Part02_10.png)
 
 10. The term creation windows shows up.

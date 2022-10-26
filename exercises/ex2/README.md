@@ -544,7 +544,7 @@ After completing these steps you will have created rules and a rulebook that is 
 <br>![](/exercises/ex2/images/Ex02_Part03_30.png)
 
 35. Click 'Data Intelligence Metadata Explorer'.
-<br>![](/exercises/ex2/images/Ex02_Part03_31.png)
+<br>![](/exercises/ex2/images/ClickDI.png)
 
 36. Click 'Rules'. 
 <br>![](/exercises/ex2/images/Ex02_Part03_32.png)
@@ -643,7 +643,7 @@ After completing these steps you will have created rules and a rulebook that is 
 <br>![](/exercises/ex2/images/Ex02_Part03_62_new.png)
 
 68. Click 'Step 2'.
-<br>![](/exercises/ex2/images/Ex02_Part03_63.png)
+<br>![](/exercises/ex2/images/Ex02_Part03_48.png)
 
 69. Select 'DI_DATA_LAKE'.
 <br>![](/exercises/ex2/images/Ex02_Part03_64.png)
@@ -681,7 +681,7 @@ After completing these steps you will have created rules and a rulebook that is 
 80. Click 'View Results'.
 <br>![](/exercises/ex2/images/Ex02_Part03_76.png)
 
-81. The Rule Result window is displayed.
+81. The Rule Result window is displayed. Expand the PHARMA_CLAIMS_ENRICHED_## (where ## is your user number).
 <br>![](/exercises/ex2/images/Ex02_Part03_77.png)
 
 82. Click 'Details' for the Rule 'DRUG_NAME_VALID_99'.
@@ -700,10 +700,10 @@ After completing these steps you will have created rules and a rulebook that is 
 <br>![](/exercises/ex2/images/Ex02_Part03_82_new_2.png)
 
 87. Click 'Data Intelligence Metadata Explorer'. 
-<br>![](/exercises/ex2/images/Ex02_Part03_83_new.png)
+<br>![](/exercises/ex2/images/ClickDI.png)
 
 88. Click 'Home'.
-<br>![](/exercises/ex2/images/Ex02_Part03_83_new_2.png)
+<br>![](/exercises/ex2/images/ClickHome.png)
 
 89. You are back to the Data Intelligence Metadata Explorer home page.
 <br>![](/exercises/ex2/images/Ex02_Part03_84.png)
@@ -754,7 +754,7 @@ After completing these steps you will have fixed data quality issues using the d
 <br>![](/exercises/ex2/images/Ex02_Part04_09_new.png)
 
 14. Click 'Apply'.
-<br>![](/exercises/ex2/images/Ex02_Part04_10.png)
+<br>![](/exercises/ex2/images/Apply.png)
 
 15. The value 'Acetaminofen' was replaced by 'Acetaminophen'.
 <br>![](/exercises/ex2/images/Ex02_Part04_07_new.png)
@@ -769,20 +769,20 @@ After completing these steps you will have fixed data quality issues using the d
 <br>![](/exercises/ex2/images/Ex02_Part04_14.png)
 
 19. Click 'Apply'.
-<br>![](/exercises/ex2/images/Ex02_Part04_15.png)
+<br>![](/exercises/ex2/images/Apply.png)
 
 20. Click 'Data Intelligence Metadata Explorer'. 
-<br>![](/exercises/ex2/images/Ex02_Part03_83_new.png)
+<br>![](/exercises/ex2/images/ClickDI.png)
 
 21. Click 'Home'.
-<br>![](/exercises/ex2/images/Ex02_Part03_83_new_2.png)
+<br>![](/exercises/ex2/images/ClickHome.png)
 
 You fixed data quality issues using the data preparation recipe that was automatically generated with the execution of your rulebook.
 In a normal process, the output dataset resulting of that data remediation process would be used in order to update the original table that contains the data quality issues using workflow and approvals.
 For this hands-on, you will use the data preparation recipe you created to simulate the update process of the data and see the results in the rulebook.
 
 22. Click 'View Preparations'.
-<br>![](/exercises/ex2/images/Ex02_Part04_17.png)
+<br>![](/exercises/ex2/images/Ex02_Part04_01.png)
 
 23. Click 'DRUG_##' (where ## is your user number).
 <br>![](/exercises/ex2/images/Ex02_Part04_18.png)
@@ -817,7 +817,7 @@ For this hands-on, you will use the data preparation recipe you created to simul
 33. Click 'OK'.
 <br>![](/exercises/ex2/images/Ex02_Part04_28.png)
 
-34. The remediated dataset was added to the list of sources.
+34. After the dataset is acquired, the remediated dataset will be added to the list of sources.
 <br>![](/exercises/ex2/images/Ex02_Part04_29.png)
 
 35. Click 'X' to delete the join with the dataset 'D1'.
@@ -874,16 +874,16 @@ For this hands-on, you will use the data preparation recipe you created to simul
 52. Click 'rulebooks'.
 <br>![](/exercises/ex2/images/Ex02_Part04_46.png)
 
-53. Type 'PHARMA_CLAIMS_##' in the 'Filter rulebook names' text field (where ## is your user number).
+53. Type '##' in the 'Filter rulebook names' text field (where ## is your user number).
 <br>![](/exercises/ex2/images/Ex02_Part04_47.png)
 
 54. Click 'PHARMA_CLAIMS_##' (where ## is your user number).
 <br>![](/exercises/ex2/images/Ex02_Part04_48.png)
 
-55. Expand both 'Accuracy' and 'Completeness' set of rules.
+55. Expand 'Accuracy' set of rules.
 <br>![](/exercises/ex2/images/Ex02_Part04_49.png)
 
-56. Edit the rules binding associated to the first rule: 'DRUG_NAME_VALID_##' (where ## is your user number).
+56 Edit the rules binding associated to the first rule: 'DRUG_NAME_VALID_##' (where ## is your user number).
 <br>![](/exercises/ex2/images/Ex02_Part04_50.png)
 
 57. Delete the rule binding.
@@ -898,94 +898,109 @@ For this hands-on, you will use the data preparation recipe you created to simul
 60. Expand 'Accuracy'.
 <br>![](/exercises/ex2/images/Ex02_Part04_54.png)
 
-
-
-******************
-******************
-
-
-
-
-
-55. Click 'Create Rule Binding'.
+61. Click 'Create Rule Binding'.
 <br>![](/exercises/ex2/images/Ex02_Part04_55.png)
 
-56. Click 'Step 2'.
+62. Click 'Step 2'.
 <br>![](/exercises/ex2/images/Ex02_Part04_56.png)
 
-57. Click 'Browse'.
+63. Click 'Browse'.
 <br>![](/exercises/ex2/images/Ex02_Part04_57.png)
 
-58. Select 'DI_DATA_LAKE' for the 'Connection'.
+64. Select 'DI_DATA_LAKE' from the 'Connection' drop down list.
 <br>![](/exercises/ex2/images/Ex02_Part04_58.png)
 
-59. Click 'shared'.
+65. Click 'shared'.
 <br>![](/exercises/ex2/images/Ex02_Part04_59.png)
 
-60. Filter 'TechEd_DAT163_##' and select your folder (where ## is your user number).
+66. Filter 'Tech*##' and select your folder (where ## is your user number).
 <br>![](/exercises/ex2/images/Ex02_Part04_60.png)
 
-61. Select 'PHARMA_CLAIMS_CURATED_##' (where ## is your user number). Then click 'Step 3'.
+67. Select your 'TechEd_DA264_##' folder (where ## is your user number).
+<br>![](/exercises/ex2/images/Ex02_Part04_60_new.png)
+
+68. Select 'PHARMA_CLAIMS_CURATED_##' (where ## is your user number). Then click 'Step 3'.
 <br>![](/exercises/ex2/images/Ex02_Part04_61.png)
 
-62. Select 'VALID_DRUG' for the mapping. Then click 'Create Binding'.
+69. Click 'Step 3'.
+<br>![](/exercises/ex2/images/Ex02_Part04_62_new.png)
+
+70. Select 'VALID_DRUG' for the mapping. Then click 'Create Binding'.
 <br>![](/exercises/ex2/images/Ex02_Part04_62.png)
 
-63. Click 'Close'.
+71. Click 'Create Binding'.
+<br>![](/exercises/ex2/images/Ex02_Part04_62_new1.png)
+
+72. Click 'Close'.
 <br>![](/exercises/ex2/images/Ex02_Part04_63.png)
 
-64. Expand 'Completeness', then edit the rule binding.
+73. Expand 'Completeness', then edit the rule binding.
 <br>![](/exercises/ex2/images/Ex02_Part04_64.png)
 
-65. Delete the column mapping for 'DRUG_NAME'. Then click 'Save'.
+74 Edit the rules binding associated to the first rule: 'PHARMA_CLAIMS_ENRICHED_##' (where ## is your user number).
+<br>![](/exercises/ex2/images/Ex02_Part04_50_new.png)
+
+75. Delete the column mapping for 'DRUG_NAME'. 
 <br>![](/exercises/ex2/images/Ex02_Part04_65.png)
 
-66. Click 'Close'.
+76. Click 'Save'.
+<br>![](/exercises/ex2/images/Ex02_Part04_65_new.png)
+
+77. Click 'Close'.
 <br>![](/exercises/ex2/images/Ex02_Part04_66.png)
 
-67. Expand 'Completeness', then click 'Create Rule Binding'.
+78. Expand 'Completeness'.
+<br>![](/exercises/ex2/images/Ex02_Part04_64.png)
+
+79. Click 'Create Rule Binding'.
 <br>![](/exercises/ex2/images/Ex02_Part04_67.png)
 
-68. Click 'Step 2'.
-<br>![](/exercises/ex2/images/Ex02_Part04_68.png)
+80. Click 'Step 2'.
+<br>![](/exercises/ex2/images/Ex02_Part04_56.png)
 
-69. Select the existing 'Connection ID' for 'PHARMA_CLAIMS_CURATED_##', then click 'Step 3' (where ## is your user number).
+81. Select the existing 'Connection ID' for 'PHARMA_CLAIMS_CURATED_##' (where ## is your user number).
 <br>![](/exercises/ex2/images/Ex02_Part04_69.png)
 
-70. Click 'Create Binding'.
+82. Click 'Step 3'.
+<br>![](/exercises/ex2/images/Ex02_Part04_69_new.png)
+
+83. Click 'Create Binding'.
 <br>![](/exercises/ex2/images/Ex02_Part04_70.png)
 
-71. Click 'Close'.
+84. Click 'Close'.
 <br>![](/exercises/ex2/images/Ex02_Part04_71.png)
 
-72. Click 'Run All'.
+85. Click 'Run All'.
 <br>![](/exercises/ex2/images/Ex02_Part04_72.png)
 
-73. Click 'Run'.
+86. Click 'Run'.
 <br>![](/exercises/ex2/images/Ex02_Part04_73.png)
 
-74. Wait for the rulebook execution to finish.
+87. Wait for the rulebook execution to finish.
 <br>![](/exercises/ex2/images/Ex02_Part04_74.png)
 
-75. You can check the execution completion status with the notification.
+88. You can check the execution completion status with the notification.
 <br>![](/exercises/ex2/images/Ex02_Part04_75.png)
 
-76. Click 'View Results'.
+89. Click 'View Results'.
 <br>![](/exercises/ex2/images/Ex02_Part04_76.png)
 
-77. Click 'Yes'.
+90. Click 'Yes'.
 <br>![](/exercises/ex2/images/Ex02_Part04_77.png)
 
-78. Expand the dataset.
+91. Expand the dataset.
 <br>![](/exercises/ex2/images/Ex02_Part04_78.png)
 
-79. The quality of the data improved.
+92. The quality of the data improved.
 <br>![](/exercises/ex2/images/Ex02_Part04_79.png)
 
-80. Click 'Data Intelligence Metadata Explorer'. Click 'Home'.
-<br>![](/exercises/ex2/images/Ex02_Part04_80.png)
+93. Click 'Data Intelligence Metadata Explorer'. 
+<br>![](/exercises/ex2/images/ClickDI.png)
 
-81. You are back to the home page of the Metadata Explorer.
+93. Click 'Home'.
+<br>![](/exercises/ex2/images/ClickHome.png)
+
+94. You are back to the home page of the Metadata Explorer.
 <br>![](/exercises/ex2/images/Ex02_Part04_81.png)
 
 You have now fixed data quality issues using the data remediation preparation.

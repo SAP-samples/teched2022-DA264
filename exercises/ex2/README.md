@@ -315,223 +315,270 @@ After completing these steps you will have created a glossary and business terms
 8. You created a glossary, and now can start enriching it with new terms.
 <br>![](/exercises/ex2/images/Ex02_Part02_09.png)
 
-18. Click 'Edit Term Template'.
+9. Click 'Edit Term Template'.
 <br>![](/exercises/ex2/images/Ex02_Part02_Attribute_01.png)
 
-18. Click 'Custom Attribute'.
+10. Click 'Custom Attribute'.
 <br>![](/exercises/ex2/images/Ex02_Part02_Attribute_02.png)
 
-18. Click 'Add Custom Attribute Group'.
+11. Click 'Add Custom Attribute Group'.
 <br>![](/exercises/ex2/images/Ex02_Part02_Attribute_03.png)
 
-18. Type 'Pharma Drug Attributes' for 'Enter Group Name'.
+12. Type 'Pharma Drug Attributes' for 'Enter Group Name'.
 <br>![](/exercises/ex2/images/Ex02_Part02_Attribute_04.png)
 
-18. Click 'Add Attribute'.
+13. Click 'Add Attribute'.
 <br>![](/exercises/ex2/images/Ex02_Part02_Attribute_05.png)
 
-18. Type 'Form' for Name.
+14. Type 'Form' for Name.
 <br>![](/exercises/ex2/images/Ex02_Part02_Attribute_06.png)
 
-18. Type 'Pharmaceutical form of medicinal products' for Description.
+15. Type 'Pharmaceutical form of medicinal products' for Description.
 <br>![](/exercises/ex2/images/Ex02_Part02_Attribute_07.png)
 
-18. Type 'String' from the Type drop down list.
+16. Type 'String' from the Type drop down list.
 <br>![](/exercises/ex2/images/Ex02_Part02_Attribute_08.png)
 
-18. Type 'List of Values' from the Validation Type drop down list.
+17. Type 'List of Values' from the Validation Type drop down list.
 <br>![](/exercises/ex2/images/Ex02_Part02_Attribute_09.png)
 
 18. Type 'Liquid' and the Enter key for Valid Values.
 <br>![](/exercises/ex2/images/Ex02_Part02_Attribute_10.png)
 
-18. Type 'Tablet' <press the Enter key>, 'Capsules' <press the Enter key>. and 'Inhalers' <press the Enter key> adding to the list of Valid Values.
+19. Type 'Tablet' <press the Enter key>, 'Capsules' <press the Enter key>. and 'Inhalers' <press the Enter key> adding to the list of Valid Values.
 <br>![](/exercises/ex2/images/Ex02_Part02_Attribute_11.png)
 
-18. Click 'Ok'.
+20. Click 'Ok'.
 <br>![](/exercises/ex2/images/Ex02_Part02_Attribute_12.png)
 
-18. Click 'Add Attribute'.
+21. Click 'Add Attribute'.
 <br>![](/exercises/ex2/images/Ex02_Part02_Attribute_13.png)
 
-18. Type 'Last Reviewed' for Name.
+22. Type 'Last Reviewed' for Name.
 <br>![](/exercises/ex2/images/Ex02_Part02_Attribute_14.png)
 
-18. Type 'Date last reviewed' for Description.
+23. Type 'Date last reviewed' for Description.
 <br>![](/exercises/ex2/images/Ex02_Part02_Attribute_15.png)
 
-18. Type 'Date' from the Type drop down list.
+24. Type 'Date' from the Type drop down list.
 <br>![](/exercises/ex2/images/Ex02_Part02_Attribute_16.png)
 
-18. Click 'Ok'.
+25. Click 'Ok'.
 <br>![](/exercises/ex2/images/Ex02_Part02_Attribute_17.png)
 
-18. Click 'Add Attribute'.
+26. Click 'Add Attribute'.
 <br>![](/exercises/ex2/images/Ex02_Part02_Attribute_18.png)
 
-18. Select 'Right' from Display Column drop down menu.
+27. Select 'Right' from Display Column drop down menu.
 <br>![](/exercises/ex2/images/Ex02_Part02_Attribute_19.png)
 
-18. Type 'Reviewer' for Name.
+28. Type 'Reviewer' for Name.
 <br>![](/exercises/ex2/images/Ex02_Part02_Attribute_20.png)
 
-18. Type 'Reviewer's name' for Description.
+29. Type 'Reviewer's name' for Description.
 <br>![](/exercises/ex2/images/Ex02_Part02_Attribute_21.png)
 
-18. Type 'String' from the Type drop down list.
+30. Type 'String' from the Type drop down list.
 <br>![](/exercises/ex2/images/Ex02_Part02_Attribute_22.png)
 
-18. Click 'Ok'.
+31. Click 'Ok'.
 <br>![](/exercises/ex2/images/Ex02_Part02_Attribute_23.png)
 
-18. Click 'Last Reviewed'.
+32. Click 'Last Reviewed'.
 <br>![](/exercises/ex2/images/Ex02_Part02_Attribute_24.png)
 
-18. Click '>', to move 'Last Reviewed' to the right column and under 'Reviewer'.
+33. Click '>', to move 'Last Reviewed' to the right column and under 'Reviewer'.
 <br>![](/exercises/ex2/images/Ex02_Part02_Attribute_25.png)
 
-18. Click 'Save'.
+34. Click 'Save'.
 <br>![](/exercises/ex2/images/Ex02_Part02_Attribute_26.png)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-19. Click '+' to create a new term.
+35. Click '+' to create a new term.
 <br>![](/exercises/ex2/images/Ex02_Part02_10.png)
 
-10. The term creation windows shows up.
+36. The term creation windows shows up.
 <br>![](/exercises/ex2/images/Ex02_Part02_11.png)
 
-11. Type 'Potency' in the 'Term Name' text field.
+37. Type 'Potency' in the 'Term Name' text field.
 <br>![](/exercises/ex2/images/Ex02_Part02_12.png)
 
-12. Type the following definition for the term: 'Measure of drug activity expressed in terms of the amount required to produce an effect of given intensity'.
+38. Type the following definition for the term: 'Measure of drug activity expressed in terms of the amount required to produce an effect of given intensity'.
 <br>![](/exercises/ex2/images/Ex02_Part02_13.png)
 
-13. Click 'Save'.
+39. Click 'Save'.
 <br>![](/exercises/ex2/images/Ex02_Part02_14.png)
 
-14. Click the 'Go back to term list' icon.
+40. Click the 'Go back to term list' icon.
 <br>![](/exercises/ex2/images/Ex02_Part02_15.png)
 
-15. The term 'Potency' is created and part of the glossary definitions. Click 'Potency'.
+41. The term 'Potency' is created and part of the glossary definitions. Click 'Potency'.
 <br>![](/exercises/ex2/images/Ex02_Part02_16.png)
 
-16. The term window shows up.
+42. The term window shows up.
 <br>![](/exercises/ex2/images/Ex02_Part02_17.png)
 
-17. Click 'Edit'.
+43. Click 'Edit'.
 <br>![](/exercises/ex2/images/Ex02_Part02_18.png)
 
-18. Click 'Relationships'.
+44. Click 'Pharma Drug Attribute'.
+<br>![](/exercises/ex2/images/Ex02_Part02_Attribute_27.png)
+
+45. Type 'Gina Milo' for Reviewer.
+<br>![](/exercises/ex2/images/Ex02_Part02_Attribute_28.png)
+ 
+46. Click the Open Picker for the Last Reviewed Date.
+<br>![](/exercises/ex2/images/Ex02_Part02_Attribute_29.png)
+ 
+47. Click on today's date.
+<br>![](/exercises/ex2/images/Ex02_Part02_Attribute_30.png)
+ 
+48. Click 'Save'.
+<br>![](/exercises/ex2/images/Ex02_Part02_Attribute_31.png) 
+ 
+49. Click 'Edit'.
+<br>![](/exercises/ex2/images/Ex02_Part02_18.png)
+ 
+50. Click 'Relationships'.
 <br>![](/exercises/ex2/images/Ex02_Part02_19.png)
 
-19. Click 'Manage Relationships'.
+51. Click 'Manage Relationships'.
 <br>![](/exercises/ex2/images/Ex02_Part02_20.png)
 
-20. Click 'Datasets or Columns'.
+52. Click 'Datasets or Columns'.
 <br>![](/exercises/ex2/images/Ex02_Part02_21.png)
 
-21. Click 'DI_DATA_LAKE'.
+53. Click 'DI_DATA_LAKE'.
 <br>![](/exercises/ex2/images/Ex02_Part02_22.png)
 
-22. Click 'shared'.
+54. Click 'shared'.
 <br>![](/exercises/ex2/images/Ex02_Part02_23.png)
 
-23. Search '*_##' (where ## is your user number) and press Enter.
+55. Search '*_##' (where ## is your user number) and press <Enter>.
 <br>![](/exercises/ex2/images/Ex02_Part02_24.png)
 
-24. Check your PHARMA_CLAIMS_ENRICHED_## dataset (where ## is your user number). 
+56. Check your PHARMA_CLAIMS_ENRICHED_## dataset (where ## is your user number). 
 <br>![](/exercises/ex2/images/Ex02_Part02_25.png)
 
-25. You can hover over 'PHARMA_CLAIMS_ENRICHED...' to see the full name.
+57. You can hover over 'PHARMA_CLAIMS_ENRICHED...' to see the full name.
 <br>![](/exercises/ex2/images/Ex02_Part02_25_new.png)
 
-26.  Click 'View Columns'.
+58.  Click 'View Columns'.
 <br>![](/exercises/ex2/images/Ex02_Part02_26.png)
 
-27. Check 'Potency'.
+59. Check 'Potency'.
 <br>![](/exercises/ex2/images/Ex02_Part02_27.png)
 
-28. Click 'Save Related Objects'.
+60. Click 'Save Related Objects'.
 <br>![](/exercises/ex2/images/Ex02_Part02_28_new.png)
 
-29. The term is now associated to a dataset and a column in this dataset.
+61. The term is now associated to a dataset and a column in the dataset.
 <br>![](/exercises/ex2/images/Ex02_Part02_28.png)
 
-30. Click 'Data Intelligence Metadata Explorer'. 
+62. Click 'Data Intelligence Metadata Explorer'. 
 <br>![](/exercises/ex2/images/Ex02_Part02_29.png)
 
-31. Click 'Home'.
+63. Click 'Home'.
 <br>![](/exercises/ex2/images/Ex02_Part02_31_new.png)
 
-32. Type 'claims' in the search bar and press the Enter key.
+64. Type 'claims' in the search bar and press the <Enter> key.
 <br>![](/exercises/ex2/images/Ex02_Part02_30.png)
 
-33. The Catalog shows the results of the dataset that matches the search pattern.
+65. The Catalog shows the results of the dataset that matches the search pattern.
 <br>![](/exercises/ex2/images/Ex02_Part02_32.png)
 
-34. Click the 'Filter' icon.
+66. Click the 'Filter' icon.
 <br>![](/exercises/ex2/images/Ex02_Part02_33.png)
 
-35. Change the Search string to 'claims*##' *(where ## is your user number).
+67. Change the Search string to 'claims*##' (where ## is your user number).
 <br>![](/exercises/ex2/images/Ex02_Part02_34.png)
 
-36. Click 'Apply'.
+68. Click 'Apply'.
 <br>![](/exercises/ex2/images/Ex02_Part02_35.png)
 
-37. Click 'More Actions'.
+69. Click 'More Actions'.
 <br>![](/exercises/ex2/images/Ex02_Part02_36.png)
 
-38. Click 'View Factsheet'.
+70. Click 'View Factsheet'.
 <br>![](/exercises/ex2/images/Ex02_Part02_37.png)
 
-39. Click 'Overview'.
+71. Click 'Overview'.
 <br>![](/exercises/ex2/images/Ex02_Part02_38.png)
  
-40. Click 'Relationships'.
+72. Click 'Relationships'.
 <br>![](/exercises/ex2/images/Ex02_Part02_39.png)
 
-41. Click 'Dataset Terms and Tags'.
+73. Click 'Dataset Terms and Tags'.
 <br>![](/exercises/ex2/images/Ex02_Part02_40.png)
 
-42. The glossary term 'Potency' is associated to the dataset.
+74. The glossary term 'Potency' is associated to the dataset.
 <br>![](/exercises/ex2/images/Ex02_Part02_41.png)
 
-43. Click 'Columns'.
+75. Click 'Columns'.
 <br>![](/exercises/ex2/images/Ex02_Part02_43_new.png)
 
-44. Click 'POTENCY'.
+76. Click 'POTENCY'.
 <br>![](/exercises/ex2/images/Ex02_Part02_42.png)
 
-45. The glossary term 'Potency' is associated to the 'POTENCY' column of the dataset.
+77. The glossary term 'Potency' is associated to the 'POTENCY' column of the dataset.
 <br>![](/exercises/ex2/images/Ex02_Part02_43.png)
 
-46. Click 'Data Intelligence Metadata Explorer'. 
+You have been informed the 'Gina Milo' has changed her last name so you need to change all the values of 'Gina Milo' to 'Gina Johnson'.
+ 
+78. Click 'Data Intelligence Metadata Explorer'. 
+<br>![](/exercises/ex2/images/ClickDI.png)
+
+79. Click 'Glossary'.
+<br>![](/exercises/ex2/images/Ex02_Part02_44_new1.png)
+ 
+80. Click 'View Business Glossary'.
+<br>![](/exercises/ex2/images/Ex02_Part02_Attribute_44_new1.png)
+ 
+81. Click 'DRUGS_GLOSSARY_##' (where ## is your user number).
+<br>![](/exercises/ex2/images/Ex02_Part02_Attribute_44_new2.png) 
+
+82. Click 'Edit Term Template'.
+<br>![](/exercises/ex2/images/Ex02_Part02_Attribute_44_new3.png) 
+ 
+83. Click 'Custom Attributes'.
+<br>![](/exercises/ex2/images/Ex02_Part02_Attribute_44_new4.png) 
+ 
+84. Click 'Edit' (pencil) icon to the right of Reviewer.
+<br>![](/exercises/ex2/images/Ex02_Part02_Attribute_44_new5.png) 
+ 
+85. Click 'View' to the right of 'Gina Milo'.
+<br>![](/exercises/ex2/images/Ex02_Part02_Attribute_44_new6.png) 
+ 
+86. Click 'Edit' (pencil) icon for 'Gina Milo'.
+<br>![](/exercises/ex2/images/Ex02_Part02_Attribute_44_new7.png) 
+ 
+87. For 'Replace With:' type 'Gina Johnson'.
+<br>![](/exercises/ex2/images/Ex02_Part02_Attribute_44_new8.png) 
+  
+88. Click 'Replace'.
+<br>![](/exercises/ex2/images/Ex02_Part02_Attribute_44_new9.png) 
+
+89. Click 'Close'.
+<br>![](/exercises/ex2/images/Ex02_Part02_Attribute_44_new10.png) 
+ 
+90. Click '<' to go back to the term list.
+<br>![](/exercises/ex2/images/Ex02_Part02_Attribute_44_new11.png) 
+ 
+91. Click 'Potency'.
+<br>![](/exercises/ex2/images/Ex02_Part02_Attribute_44_new12.png)
+ 
+92. Click 'Pharma Drug Attributes'.
+<br>![](/exercises/ex2/images/Ex02_Part02_Attribute_44_new13.png) 
+
+93. Notice the Reviewer's Name has been changed to 'Gina Johnson'.
+<br>![](/exercises/ex2/images/Ex02_Part02_Attribute_44_new14.png) 
+ 
+94. Click 'Data Intelligence Metadata Explorer'. 
 <br>![](/exercises/ex2/images/Ex02_Part02_44.png)
 
-47. Click 'Home'.
+95. Click 'Home'.
 <br>![](/exercises/ex2/images/Ex02_Part02_44_ner.png)
 
-48. You are back to the Data Intellience Metadata Explorer Home page.
+96. You are back to the Data Intellience Metadata Explorer Home page.
 <br>![](/exercises/ex2/images/Ex02_Part02_45.png)
 
 You have now created a glossary and business terms and associated them to your enriched dataset.

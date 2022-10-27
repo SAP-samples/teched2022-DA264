@@ -581,7 +581,7 @@ You have been informed the 'Gina Milo' has changed her last name so you need to 
 96. You are back to the Data Intellience Metadata Explorer Home page.
 <br>![](/exercises/ex2/images/Ex02_Part02_45.png)
 
-You have now created a glossary and business terms and associated them to your enriched dataset.
+You have now created a glossary, custom attributes, which extend the meaning of an asset beyond the definition, [erformed a mass update on a custom attribute value, defined a business term, and associated the business term to a dataset and a column all to enriched your dataset.
 
 ## Rules
 

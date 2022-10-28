@@ -8,7 +8,7 @@ Finally you will curate the data.
 ## Modify Preparation
 
 After completing these steps you will have modified your data preparation recipe to further isolate the data quality issues on a specific column.
-Then you will schedule a publication of this dataset to take into account potantial metadata changes in the future.
+Then you will schedule a publication of this dataset to take into account potential metadata changes in the future.
 
 1. Click 'View Preparation'.
 <br>![](/exercises/ex2/images/Ex02_Part01_01.png)
@@ -163,7 +163,7 @@ Then you will schedule a publication of this dataset to take into account potant
 51. Click 'Apply'.
 <br>![](/exercises/ex2/images/Ex02_Part01_50.png)
 
-52. Note: with 'Write Mode' set to 'Overwrite' will allow the content to overwrite the existing data with this new definition.
+52. Note: Write Mode' set to 'Overwrite' will allow the content to overwrite the existing data with this new definition.
 <br>![](/exercises/ex2/images/Ex02_Part01_51_new.png)
 
 53. Click 'Apply'.
@@ -336,10 +336,10 @@ After completing these steps you will have created a glossary and business terms
 15. Type 'Pharmaceutical form of medicinal products' for Description.
 <br>![](/exercises/ex2/images/Ex02_Part02_Attribute_07.png)
 
-16. Type 'String' from the Type drop down list.
+16. Select 'String' from the Type drop down list.
 <br>![](/exercises/ex2/images/Ex02_Part02_Attribute_08.png)
 
-17. Type 'List of Values' from the Validation Type drop down list.
+17. Select 'List of Values' from the Validation Type drop down list.
 <br>![](/exercises/ex2/images/Ex02_Part02_Attribute_09.png)
 
 18. Type 'Liquid' and the Enter key for Valid Values.
@@ -360,7 +360,7 @@ After completing these steps you will have created a glossary and business terms
 23. Type 'Date last reviewed' for Description.
 <br>![](/exercises/ex2/images/Ex02_Part02_Attribute_15.png)
 
-24. Type 'Date' from the Type drop down list.
+24. Select 'Date' from the Type drop down list.
 <br>![](/exercises/ex2/images/Ex02_Part02_Attribute_16.png)
 
 25. Click 'Ok'.
@@ -378,7 +378,7 @@ After completing these steps you will have created a glossary and business terms
 29. Type 'Reviewer's name' for Description.
 <br>![](/exercises/ex2/images/Ex02_Part02_Attribute_21.png)
 
-30. Type 'String' from the Type drop down list.
+30. Select 'String' from the Type drop down list.
 <br>![](/exercises/ex2/images/Ex02_Part02_Attribute_22.png)
 
 31. Click 'Ok'.
@@ -522,7 +522,7 @@ After completing these steps you will have created a glossary and business terms
 77. The glossary term 'Potency' is associated to the 'POTENCY' column of the dataset.
 <br>![](/exercises/ex2/images/Ex02_Part02_43.png)
 
-You have been informed the 'Gina Milo' has changed her last name so you need to change all the values of 'Gina Milo' to 'Gina Johnson'.
+You have been informed that 'Gina Milo' has changed her last name so you need to change all the values of 'Gina Milo' to 'Gina Johnson', you can do this as a mass update so all the 'Gino Milo' Reviewer values can be update to 'Gino Johnson' at one time.
  
 78. Click 'Data Intelligence Metadata Explorer'. 
 <br>![](/exercises/ex2/images/ClickDI.png)
@@ -581,7 +581,13 @@ You have been informed the 'Gina Milo' has changed her last name so you need to 
 96. You are back to the Data Intellience Metadata Explorer Home page.
 <br>![](/exercises/ex2/images/Ex02_Part02_45.png)
 
-You have now created a glossary, custom attributes, which extend the meaning of an asset beyond the definition, [erformed a mass update on a custom attribute value, defined a business term, and associated the business term to a dataset and a column all to enriched your dataset.
+You have now:
+- created a glossary
+- added custom attributes, which extend the meaning of an asset beyond the definition
+- performed a mass update on a custom attribute value, all 'Gina Milo' references where changed to 'Gina Johnson' 
+- defined a business term
+- associated the business term to a dataset and a column 
+all to enriched your dataset.
 
 ## Rules
 

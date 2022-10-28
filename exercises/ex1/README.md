@@ -119,7 +119,7 @@ You can easily profile the data and get access to metadata information. It also 
 17. This shows the details of the notifications. Click anywhere outside the notification window to continue interacting with the application.
 <br>![](/exercises/ex1/images/Ex01_Part03_17.png)
 
-18. Wait for the profiling task to finish, this action can take some time. You can click 'Refresh' until you see a notification that the profiling is complete. Click 'Refresh' after profiling is complete.
+18. Wait for the profiling task to finish, this action can take some time. Click on the canvas outside of the notification list.  You can then click 'Refresh' until you see a notification that the profiling is complete or if you see the factsheet now states 'Profiled'. Click 'Refresh' after profiling is complete to see the updated the profiling results.
 <br>![](/exercises/ex1/images/Ex01_Part03_18.png)
 <br>![](/exercises/ex1/images/Ex01_Part03_18_addition.png)
 
@@ -145,7 +145,7 @@ You can easily profile the data and get access to metadata information. It also 
 <br>![](/exercises/ex1/images/ClickDI.png)
 
 26. Click 'Home'.
-<br>![](/exercises/ex1/images/ClickHome)
+<br>![](/exercises/ex1/images/ClickHome.png)
 
 You have now discovered a table in a database, profiled the data, and found some data quality issues.
 
@@ -198,7 +198,7 @@ After completing these steps you will have uploaded a dataset from a flat flat t
 15. The file is now uploaded and available in the data lake.
 <br>![](/exercises/ex1/images/Ex01_Part02_15.png)
 
-You have now uploaded a dataset from a flat file on your local system to a cloud data lake data repository using SAP Data Intelligence.
+You have now uploaded a dataset from a flat file on your local system to a cloud data lake data repository using SAP Data Intelligence Metadata Explorer.
 
 ## Enrich Dataset and Isolate Data Quality Issues
 
@@ -272,13 +272,13 @@ Additionally you will profile this dataset, add a rating and description and pub
 22. Select 'Left Join'.
 <br>![](/exercises/ex1/images/Ex01_Part04_22.png)
 
-23. Scroll down the list of output columns and uncheck 'ORIG_PRODUCT', 'POTENCY', 'DOSAGE', 'ROUTE_ADMINISTERED', 'NOTES'.
+23. Scroll down the list of output columns and uncheck 'ORIG_PRODUCT', 'POTENCY', 'DOSAGE', 'ROUTE_ADMINISTERED', and 'NOTES'.
 <br>![](/exercises/ex1/images/Ex01_Part04_23.png)
 
 24. Click Apply.
 <br>![](/exercises/ex1/images/Ex01_Part04_24.png)
 
-25. You will now see a preview of the merge data.
+25. You will now see a preview of the merged data.
 <br>![](/exercises/ex1/images/Ex01_Part04_25.png)
 
 26. The merged data now shows a null value for the column 'DRUG_NAME_0' when a record from the claim data is for a drug that is not listed in the list of supported drugs.
@@ -366,7 +366,7 @@ You can now use this enriched dataset to isolate the data quality issues to furt
 <br>![](/exercises/ex1/images/Ex01_Part02_01.png)
 
 52. Click 'DI_DATA_LAKE'.
-<br>![](/exercises/ex1/images/Ex01_Part02_02.png
+<br>![](/exercises/ex1/images/Ex01_Part02_02.png)
 
 53. Click 'shared'.
 <br>![](/exercises/ex1/images/Ex01_Part02_03.png)

@@ -73,14 +73,13 @@ The requirements to follow the exercises in this repository are:
 13. Right click and select rename.
 <br>![](/exercises/ex0/images/Ex00_Part01_01_add_new_RenameDRUG.png)
 
-13. Right click and select rename, to rename 'DRUG.csv' to 'DRUG_##.csv' (where ## is your user number)
+14. Right click and select rename, to rename 'DRUG.csv' to 'DRUG_##.csv' (where ## is the last 2-digits of your username)
 <br>![](/exercises/ex0/images/Ex00_Part01_01_add_new_RenameDRUG_new.png)
-<br>*Note: For example if you are user teched-da264-99, then rename your file DRUG_99.csv
+<br>*Note: For example if you are user teched-da264-99, then use the 99 and rename your file DRUG_99.csv
 
 ## Disclaimer
 - Your screen shots may look different than those in the exercises; they may contain additional content, depending on what other attendees have entered.
 
-UPDATE
 ## Content
 - [Product Overview](exercises/ex0/)
     - [SAP Data Intelligence Overview](exercises/ex0#sap-data-intelligence---overview)
@@ -93,13 +92,13 @@ UPDATE
 - [Hands-on - Part 2 (Govern and Monitor Data Quality)](exercises/ex2/)
     - [Modify Preparation](exercises/ex2#modify-preparation)
     - [Business Glossary](exercises/ex2#business-glossary)
+    - [Custom Attributes](exercises/ex2#business-glossary)
     - [Rules](exercises/ex2#rules)
     - [Data Remediation](exercises/ex2#data-remediation)
 
 ## How to obtain support
 
 Support for the content in this repository is available during the actual time of the hands on session for which this content has been designed. 
-UPDATE: Otherwise, you may request support via the [Issues](../../issues) tab.
 
 ## License
 Copyright (c) 2022 SAP SE or an SAP affiliate company. All rights reserved. This project is licensed under the Apache Software License, version 2.0 except as noted otherwise in the [LICENSE](LICENSES/Apache-2.0.txt) file.

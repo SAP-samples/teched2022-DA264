@@ -42,7 +42,7 @@ UPDATE: ADD URL link to DI
 2. Enter 'default' for Tenant Name depending on your session and click 'Proceed'.
 <br>![](/exercises/ex1/images/Ex01_Part01_02_new.png)
 
-3. Enter the Username that was assigned to you (e.g. 'teched-da264-##'), for Tenant Name.
+3. Enter the Username that was assigned to you (e.g. 'teched-da264-##'), for Username.
 <br>![](/exercises/ex1/images/Ex01_Part01_03_new.png)
 
 Note: 

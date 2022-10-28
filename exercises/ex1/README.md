@@ -119,7 +119,7 @@ You can easily profile the data and get access to metadata information. It also 
 17. This shows the details of the notifications. Click anywhere outside the notification window to continue interacting with the application.
 <br>![](/exercises/ex1/images/Ex01_Part03_17.png)
 
-18. Wait for the profiling task to finish, this action can take some time. You can then click 'Refresh' until you see a notification that the profiling is complete or if you see the factsheet now states 'Profiled'. Click 'Refresh' after profiling is complete to see the updated the profiling results.
+18. Wait for the profiling task to finish, this action can take some time. You can click 'Refresh' until you see a notification that the profiling is complete or if you see the factsheet now states 'Profiled'. Click 'Refresh' after profiling is complete to see the profiling results.
 <br>![](/exercises/ex1/images/Ex01_Part03_18.png)
 <br>![](/exercises/ex1/images/Ex01_Part03_18_addition.png)
 

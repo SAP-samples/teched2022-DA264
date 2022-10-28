@@ -46,7 +46,7 @@ The requirements to follow the exercises in this repository are:
 4. Open File Explorer and select 'Downloads'
 <br>![](/exercises/ex0/images/Ex00_Part01_01_add_new_DownloadFolder.png)
 
-5. Double click on 'DRUGS (1).zip' to upzip the file
+5. Double click on 'DRUGS.zip' to upzip the file
 <br>![](/exercises/ex0/images/Ex00_Part01_01_add_new_blur.png)
 
 6. Select the file 'DRUG.csv'
@@ -61,18 +61,21 @@ The requirements to follow the exercises in this repository are:
 9. Click 'OK'
 <br>![](/exercises/ex0/images/Ex00_Part01_01_add_new_SelectOK.png)
 
-10. Close 'DRUG (1).zip file
+10. Close 'DRUG.zip file
 <br>![](/exercises/ex0/images/Ex00_Part01_01_add_new_CloseZip.png)
 
-12. In File Explorer go to Desktop
+11. In File Explorer go to Desktop
 <br>![](/exercises/ex0/images/Ex00_Part01_01_add_new_GoToDesktop.png)
 
-13. Select DRUGS.cvs
+12. Select DRUGS.cvs
 <br>![](/exercises/ex0/images/Ex00_Part01_01_add_new_Select4RenameDrugs.png)
 
-14. Right click and select rename, to rename 'DRUG.csv' to 'DRUG_##.csv' (where ## is your user number)
+13. Right click and select rename.
 <br>![](/exercises/ex0/images/Ex00_Part01_01_add_new_RenameDRUG.png)
-<br>*Note: For example if you are user teched-da264-**01**, then rename your file DRUG_**01**.csv*
+
+13. Right click and select rename, to rename 'DRUG.csv' to 'DRUG_##.csv' (where ## is your user number)
+<br>![](/exercises/ex0/images/Ex00_Part01_01_add_new_RenameDRUG_new.png)
+<br>*Note: For example if you are user teched-da264-99, then rename your file DRUG_99.csv
 
 ## Disclaimer
 - Your screen shots may look different than those in the exercises; they may contain additional content, depending on what other attendees have entered.

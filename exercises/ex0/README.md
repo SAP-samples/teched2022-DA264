@@ -95,7 +95,7 @@ Create a dashboard with custom tiles showing the results of the datasets, catego
 
 ### Data Preparation and Enrichment
 
-Discover, prepare and cleanse, and share data with a visual, interactive interface intended for less complex tasks.
+Discover, prepare, cleanse, and share data with a visual, interactive interface intended for less complex tasks.
 
 Business users and data scientists can access, transform, and enrich datasets using a spreadsheet-like user interface in Metadata Explorer.
 

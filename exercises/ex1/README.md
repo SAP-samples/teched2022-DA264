@@ -284,7 +284,7 @@ Additionally you will profile this dataset, add a rating and description and pub
 26. The merged data now shows a null value for the column 'DRUG_NAME_0' when a record from the claim data is for a drug that is not listed in the list of supported drugs.
 <br>![](/exercises/ex1/images/Ex01_Part04_26.png)
 
-27. Click 'Apply Enrichment'.
+27. Click 'Apply Enrichment' to confirm the join/merge action.
 <br>![](/exercises/ex1/images/Ex01_Part04_27.png)
 
 28. You are now back on the main self-service data preparation, where you can see enriched (merged) dataset.

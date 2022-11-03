@@ -37,7 +37,7 @@ Then you will schedule a publication of this dataset to take into account potent
 9. Check 'POTENCY', under Right Source.
 <br>![](/exercises/ex2/images/Ex02_Part01_09.png)
 
-10. Click 'Apply'.
+10. Click 'Apply'(at the bottom right).
 <br>![](/exercises/ex2/images/Ex02_Part01_10.png)
 
 11. 'POTENCY' is now added in the output columns.
@@ -160,13 +160,13 @@ Then you will schedule a publication of this dataset to take into account potent
 50. Select 'PHARMA-CLAIMS_ENRICHED_##' (where ## is your user number).
 <br>![](/exercises/ex2/images/Ex02_Part01_49.png)
 
-51. Click 'Apply'.
+51. Click 'Apply'(at the bottom right).
 <br>![](/exercises/ex2/images/Ex02_Part01_50.png)
 
 52. Note: Write Mode' set to 'Overwrite' will allow the content to overwrite the existing data with this new definition.
 <br>![](/exercises/ex2/images/Ex02_Part01_51_new.png)
 
-53. Click 'Apply'.
+53. Click 'Apply'(at the bottom right).
 <br>![](/exercises/ex2/images/Apply.png)
 
 54. Click 'Yes'.
@@ -836,7 +836,7 @@ After completing these steps you will have created rules and a rulebook that is 
 81. The Rule Result window is displayed. Expand the PHARMA_CLAIMS_ENRICHED_## (where ## is your user number).
 <br>![](/exercises/ex2/images/Ex02_Part03_77.png)
 
-82. Click 'Details' for the Rule 'DRUG_NAME_VALID_##'.
+82. Click 'Details' for the Rule 'DRUG_NAME_VALID_99'.
 <br>![](/exercises/ex2/images/Ex02_Part03_78.png)
 
 83. Expand the 'Sample Rows' window.
@@ -957,7 +957,7 @@ For this hands-on, you will use the data preparation recipe you created to simul
 29. Click 'shared'.
 <br>![](/exercises/ex2/images/Ex02_Part04_24.png)
 
-30. Type in '##' in the 'Filter items' search bar (where ## is your user number).
+30. Type in '99' in the 'Filter items' search bar (where ## is your user number).
 <br>![](/exercises/ex2/images/Ex02_Part04_25.png)
 
 31. Click 'TechEd_DA264_##' (where ## is your user number).

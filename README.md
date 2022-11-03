@@ -67,7 +67,7 @@ The requirements to follow the exercises in this repository are:
 11. In File Explorer go to Desktop
 <br>![](/exercises/ex0/images/Ex00_Part01_01_add_new_GoToDesktop.png)
 
-12. Select DRUGS.cvs
+12. Select DRUGS.csv
 <br>![](/exercises/ex0/images/Ex00_Part01_01_add_new_Select4RenameDrugs.png)
 
 13. Right click and select rename.

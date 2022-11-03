@@ -6,7 +6,7 @@ In this exercise, you will discover and interact with various connected systems,
 
 ## Dataset Overview
 
-The first dataset, contains information about pharmaceutic claims for an insurance company.
+The first dataset, contains information about pharmaceutic claims for an insurance company and is already stored in a HANA system.
 
 It contains 8 fields:
 * RECORD_ID (Unique Identifier associated to a claim)

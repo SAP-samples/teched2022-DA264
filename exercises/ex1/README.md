@@ -18,7 +18,7 @@ It contains 8 fields:
 * VISIT (Date of the visit associated to this claim)
 * DRUG_NAME (Drug name for the claim)
 
-The second dataset, DRUG.csv, is the flat file you retrieved on the main page of this hands-on and this file contains a list of drugs which are supported by this insurance company.
+The second dataset, DRUG__##.csv, is the flat file you retrieved (and renamed) and saved to your desktop.  This file contains a list of drugs which are supported by this insurance company (where ## is your user number).
 
 It contains 6 fields:
 * ORIG_PRODUCT (Non split entry)

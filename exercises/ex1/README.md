@@ -34,9 +34,7 @@ This hands on will focus on discovering these datasets, find patterns and data q
 
 After completing these steps, you will have logged into SAP Data Intelligence.
 
-UPDATE: ADD URL link to DI
-
-1. Open Chrome and go to the SAP Data Intelligence url you were provided.
+1. Open Chrome and go to the SAP Data Intelligence url (https://vsystem.ingress.dh-1581x4vwrroy.di-xm8.shoot.live.k8s-hana.ondemand.com/login/?redirectUrl=%2Fapp%2Fdatahub-app-launchpad%2F&tenant=default) you were provided.
 <br>![](/exercises/ex1/images/Ex01_Part01_01.png)
 
 2. Enter 'default' for Tenant Name depending on your session and click 'Proceed'.
@@ -314,7 +312,7 @@ You can now use this enriched dataset to isolate the data quality issues to furt
 34. Click 'OK'.
 <br>![](/exercises/ex1/images/Ex01_Part04_34.png)
 
-35. Click 'Apply'.
+35. Click 'Apply'(at the bottom right).
 <br>![](/exercises/ex1/images/Apply.png)
 
 36. A new column, ValidClaim' is now created.
@@ -338,7 +336,7 @@ You can now use this enriched dataset to isolate the data quality issues to furt
 42. Type 'PHARMA_CLAIMS_ENRICHED_##' (where ## is your user number) for the 'Dataset Name'.
 <br>![](/exercises/ex1/images/Ex01_Part04_42.png)
 
-43. Click 'Apply'.
+43. Click 'Apply'(at the bottom right).
 <br>![](/exercises/ex1/images/Apply.png)
 
 44. Click 'Data Intelligence Metadata Explorer'.
@@ -359,7 +357,7 @@ You can now use this enriched dataset to isolate the data quality issues to furt
 49. Click 'Data Intelligence Metadata Explorer'.
 <br>![](/exercises/ex1/images/ClickDI.png)
 
-50. Click 'HOME'.
+50. Click 'Home'.
 <br>![](/exercises/ex1/images/ClickHome.png)
 
 51. Click 'Browse Connections'.
@@ -430,13 +428,6 @@ You can now use this enriched dataset to isolate the data quality issues to furt
 
 72. You can now see that the dataset is both profiled and published in the application catalog.
 <br>![](/exercises/ex1/images/Ex01_Part04_69.png)
-
-
-
-*******************************
-*******************************
-
-
 
 70. Click 'View Fact Sheet'.
 <br>![](/exercises/ex1/images/Ex01_Part04_70.png)

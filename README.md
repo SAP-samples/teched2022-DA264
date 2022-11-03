@@ -46,7 +46,7 @@ The requirements to follow the exercises in this repository are:
 4. Open File Explorer and select 'Downloads'
 <br>![](/exercises/ex0/images/Ex00_Part01_01_add_new_DownloadFolder.png)
 
-5. Double click on 'DRUGS.zip' to upzip the file
+5. Double click on 'DRUGS.zip' to unzip the file
 <br>![](/exercises/ex0/images/Ex00_Part01_01_add_new_blur.png)
 
 6. Select the file 'DRUG.csv'

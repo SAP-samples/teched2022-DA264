@@ -82,7 +82,7 @@ After completing these steps you will have discovered dataset stored in a databa
 6. This lists all the features supported for a given connected system.
 <br>![](/exercises/ex1/images/Ex01_Part03_06.png)
 
-7. Click 'Grid View' to come back to tiles.
+7. Click 'Grid View' to go back to the tiles view.
 <br>![](/exercises/ex1/images/Ex01_Part03_07.png)
 
 8. Click on the 'HANA_DEMO' tile.
@@ -91,19 +91,19 @@ After completing these steps you will have discovered dataset stored in a databa
 9. Select 'TECHED_DA264'.
 <br>![](/exercises/ex1/images/Ex01_Part03_09.png)
 
-10. The list of all available tables within the schema shows up.   
+10. The list of all available tables within the schema.   
 <br>![](/exercises/ex1/images/Ex01_Part03_10.png)
 
-11. Type 'PHARMA_CLAIMS_##' in the 'Filter items' text field (where ## is your user number, for example if your user number is 99, then type 'PHARMA_CLAIMS_99').
+11. Type 'PHARMA_CLAIMS_##' in the 'Filter items' text field (where ## is your user number, for example if your last 2-digits of your username is '99', then type 'PHARMA_CLAIMS_99').
 <br>![](/exercises/ex1/images/Ex01_Part03_11.png)
 
 12. Click 'View FactSheet' on the 'PHARMA_CLAIM_##' database table tile (where ## is your user number).
 <br>![](/exercises/ex1/images/Ex01_Part03_12.png).
 
-13. This shows the 'Fact Sheet'.
+13. This shows the 'Fact Sheet'. 
 <br>![](/exercises/ex1/images/Ex01_Part03_13.png)
 
-The 'Fact Sheet' is the central place in SAP Data Intelligence Metatadata Explorer to find information about your data.
+The 'Fact Sheet' is the central place in SAP Data Intelligence Metatadata Explorer to find information about your data. From the Fact Sheet you can get insight into the data, such as column types, lineage, glossary terms that are associated to the data, and more.
 
 You can easily profile the data and get access to metadata information. It also contains links and information about business terms and tags associated to the dataset or the columns. Users can describe, rate, and comment on the data collaboratively. You can preparare the data for other downstream usage.
 
@@ -123,28 +123,32 @@ You can easily profile the data and get access to metadata information. It also 
 <br>![](/exercises/ex1/images/Ex01_Part03_18.png)
 <br>![](/exercises/ex1/images/Ex01_Part03_18_addition.png)
 
-19. The factsheet was updated with the profiling information once the task is done.
+19. Click 'Refresh' after profiling is complete to view the profiling results.
+<br>![](/exercises/ex1/images/Ex01_Part03_18.png)
+
+
+20. The factsheet was updated with the profiling information once the task is done.
 <br>![](/exercises/ex1/images/Ex01_Part03_19.png)
 
-20. Click 'Columns'.
+21. Click 'Columns'.
 <br>![](/exercises/ex1/images/Ex01_Part03_20.png)
 
-21. Select the Line for 'DRUG_NAME'.
+22. Select the Line for 'DRUG_NAME'.
 <br>![](/exercises/ex1/images/Ex01_Part03_21.png)
 
-22. Observe 'Data Preview' and the 'Top 10 Distinct Values'.
+23. Observe 'Data Preview' and the 'Top 10 Distinct Values'.
 <br>![](/exercises/ex1/images/Ex01_Part03_22.png)
 
-23. Scroll to the bottom of 'Data Preview'. We can see there are data quality issues such as spelling mistakes on the drug names.
+24. Scroll to the bottom of 'Data Preview'. We can see there are data quality issues such as spelling mistakes on the drug names.
 <br>![](/exercises/ex1/images/Ex01_Part03_23.png)
 
-24. Looking at the 'Top 10 Distinct Values', we can see there is a large percentage of null values in the dataset.
+25. Looking at the 'Top 10 Distinct Values', we can see there is a large percentage of null values in the dataset.
 <br>![](/exercises/ex1/images/Ex01_Part03_24.png)
 
-25. Click 'Data Intelligence Metadata Explorer'.
+26. Click 'Data Intelligence Metadata Explorer'.
 <br>![](/exercises/ex1/images/ClickDI.png)
 
-26. Click 'Home'.
+27. Click 'Home'.
 <br>![](/exercises/ex1/images/ClickHome.png)
 
 You have now discovered a table in a database, profiled the data, and found some data quality issues.

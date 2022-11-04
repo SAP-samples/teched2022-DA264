@@ -37,21 +37,25 @@ After completing these steps, you will have logged into SAP Data Intelligence.
 1. Open Chrome and go to the [SAP Data Intelligence](https://vsystem.ingress.dh-1581x4vwrroy.di-xm8.shoot.live.k8s-hana.ondemand.com/login/?redirectUrl=%2Fapp%2Fdatahub-app-launchpad%2F&tenant=default).
 <br>![](/exercises/ex1/images/Ex01_Part01_01.png)
 
-2. Enter 'default' for Tenant Name depending on your session and click 'Proceed'.
-<br>![](/exercises/ex1/images/Ex01_Part01_02_new.png)
+2. Enter 'default' for Tenant Name.
+<br>![](/exercises/ex1/images/Ex01_Part01_02_new1.png)
 
-3. Enter the Username that was assigned to you (e.g. 'teched-da264-##'), for Username.
+3.Click 'Proceed'.
+<br>![](/exercises/ex1/images/Ex01_Part01_02_new1.png)
+
+4. Enter the Username that was assigned to you (e.g. 'teched-da264-##'), for Username.
 <br>Note: 
 * where ## is the number assigned to you.
-* If your user number is 99 then your login is 'teched-da264-99'.<br>![](/exercises/ex1/images/Ex01_Part01_03_new.png)
+* If your user number is 99 then your login is 'teched-da264-99'.
+* <br>![](/exercises/ex1/images/Ex01_Part01_03_new.png)
 
-4. Enter the Password that was assigned to you, for your Password.
+5. Enter the Password that was assigned to you, for your Password.
 <br>![](/exercises/ex1/images/Ex01_Part01_04_new.png)
   
-5. Click 'Sign In'.
+6. Click 'Sign In'.
 <br>![](/exercises/ex1/images/Ex01_Part01_05_new.png)
 
-4. You are now signed in the application.
+7. You are now signed in the application.
 <br>![](/exercises/ex1/images/Ex01_Part01_06_new.png)
 
 You have successfully logged into SAP Data Intelligence.

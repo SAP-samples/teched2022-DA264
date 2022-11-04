@@ -52,25 +52,25 @@ The requirements to follow the exercises in this repository are:
 7. Click 'Extract To' from the menu
 <br>![](/exercises/ex0/images/Ex00_Part01_01_add_new_extract.png)
 
-8. Extract DRUG.csv to your Desktop
+8. Extract DRUG.csv to your Desktop, by clicking on 'Desktop'.
 <br>![](/exercises/ex0/images/Ex00_Part01_01_add_new_SelectZip_1.png)
 
-9. Click 'OK'
+9. Click 'OK'.
 <br>![](/exercises/ex0/images/Ex00_Part01_01_add_new_SelectOK.png)
 
-10. Close 'DRUG.zip file
+10. Close 'DRUG.zip file.
 <br>![](/exercises/ex0/images/Ex00_Part01_01_add_new_CloseZip.png)
 
-11. In File Explorer go to Desktop
+11. In File Explorer go to Desktop, by clicking 'Desktop'.
 <br>![](/exercises/ex0/images/Ex00_Part01_01_add_new_GoToDesktop.png)
 
-12. Select DRUGS.csv
+12. Select DRUGS.csv.
 <br>![](/exercises/ex0/images/Ex00_Part01_01_add_new_Select4RenameDrugs.png)
 
 13. Right click and select rename.
 <br>![](/exercises/ex0/images/Ex00_Part01_01_add_new_RenameDRUG.png)
 
-14. Right click and select rename, to rename 'DRUG.csv' to 'DRUG_##.csv' (where ## is the last 2-digits of your username)
+14. Right click and select rename, to rename 'DRUG.csv' to 'DRUG_##.csv' (where ## is the last 2-digits of your username).
 <br>![](/exercises/ex0/images/Ex00_Part01_01_add_new_RenameDRUG_new.png)
 <br>*Note: For example if you are user teched-da264-99, then use the 99 and rename your file DRUG_99.csv
 

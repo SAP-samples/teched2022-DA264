@@ -34,13 +34,8 @@ This hands on will focus on discovering these datasets, find patterns and data q
 
 After completing these steps, you will have logged into SAP Data Intelligence.
 
-1. Open Chrome and go to the [SAP Data Intelligence](https://vsystem.ingress.dh-1581x4vwrroy.di-xm8.shoot.live.k8s-hana.ondemand.com/login/?redirectUrl=%2Fapp%2Fdatahub-app-launchpad%2F&tenant=default) you were provided.
+1. Open Chrome and go to the [SAP Data Intelligence](https://vsystem.ingress.dh-1581x4vwrroy.di-xm8.shoot.live.k8s-hana.ondemand.com/login/?redirectUrl=%2Fapp%2Fdatahub-app-launchpad%2F&tenant=default).
 <br>![](/exercises/ex1/images/Ex01_Part01_01.png)
-
-1. [Register](https://workshop_registration.cfapps.eu10.hana.ondemand.com/register/lynnel) to obtain your username and password.
-<br>![](/exercises/ex0/images/Registration_homepage.png)
-
-
 
 2. Enter 'default' for Tenant Name depending on your session and click 'Proceed'.
 <br>![](/exercises/ex1/images/Ex01_Part01_02_new.png)

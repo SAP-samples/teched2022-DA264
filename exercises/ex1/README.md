@@ -41,7 +41,7 @@ After completing these steps, you will have logged into SAP Data Intelligence.
 <br>![](/exercises/ex1/images/Ex01_Part01_02_new1.png)
 
 3. Click 'Proceed'.
-<br>![](/exercises/ex1/images/Ex01_Part01_02_new1.png)
+<br>![](/exercises/ex1/images/Ex01_Part01_02_new21.png)
 
 4. Enter the Username that was assigned to you (e.g. 'teched-da264-##'), for Username.
 <br>Note: 

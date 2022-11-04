@@ -6,31 +6,28 @@ This repository contains the material for the SAP TechEd 2022 session called DA2
 
 ## Overview
 
-This hands-on provides attendes an overview of metadata management and data governance capabilities available in SAP Data Intelligence. You will learn how a data steward can build a data catalog, define rules, and build a dashboard, as well as how a business analyst can discover data, gain insight, and enhance and enrich data with the self-service data preparation capability in SAP Data Intelligence Cloud.
+This hands-on provides attendees an overview of metadata management and data governance capabilities available in SAP Data Intelligence. You will learn how a data steward can build a data catalog, define rules, and build a dashboard, as well as how a business analyst can discover data, gain insight, and enhance and enrich data with the self-service data preparation capability in SAP Data Intelligence Cloud.
 
 ## Requirements
 
 The requirements to follow the exercises in this repository are:
 * to use a Chrome web browser,
-* UPDATE IF NECESSARY to register and get your user,
-* UPDATE IF NECESSARY retrieve a zipped folder with data.
+* to register and get your user,
+* retrieve a zipped folder with data.
 
 ## UPDATE IF NECESSARY User Registration
 
 1. [Register](https://workshop_registration.cfapps.eu10.hana.ondemand.com/register/lynnel) to obtain your username and password
-<br> CHANGE REGISTER TO BE A URL
+##<br>![](/exercises/ex0/images/Registration_homepage.png)
 
-2. Select the workshop entry for this session: da264 UPDATE IF NECESSARY
-<br>ADD SCREEN SHOT
-##<br>![](/exercises/ex0/images/Registration_home page.png)
+2. Type your name.
+##<br>![](/exercises/ex0/images/Registration_homepage_name.png)
 
-3. Type your name.
-<br>ADD SCREEN SHOT
-##<br>![](/exercises/ex0/images/Ex00_Registration_02b.png_new)
+3. Click 'Submit'.
+##<br>![](/exercises/ex0/images/Registration_homepage_name.png)
 
-4. Click 'Submit'.
-<br>ADD SCREEN SHOT
-##<br>![](/exercises/ex0/images/Ex00_Registration_03b.png_new)
+4. Your username and password have been generated. You will use the username and password to log into SAP Data Intelligence.
+##<br>![](/exercises/ex0/images/Registration_Username_Pwd.png)
 
 ## Pre-Requisites
 

@@ -40,14 +40,14 @@ After completing these steps, you will have logged into SAP Data Intelligence.
 2. Enter 'default' for Tenant Name.
 <br>![](/exercises/ex1/images/Ex01_Part01_02_new1.png)
 
-3.Click 'Proceed'.
+3. Click 'Proceed'.
 <br>![](/exercises/ex1/images/Ex01_Part01_02_new1.png)
 
 4. Enter the Username that was assigned to you (e.g. 'teched-da264-##'), for Username.
 <br>Note: 
 * where ## is the number assigned to you.
 * If your user number is 99 then your login is 'teched-da264-99'.
-* <br>![](/exercises/ex1/images/Ex01_Part01_03_new.png)
+<br>![](/exercises/ex1/images/Ex01_Part01_03_new.png)
 
 5. Enter the Password that was assigned to you, for your Password.
 <br>![](/exercises/ex1/images/Ex01_Part01_04_new.png)

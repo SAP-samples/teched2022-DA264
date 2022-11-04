@@ -1,6 +1,6 @@
 # Hands-on - Part 1 (Discover, Prepare, and Enrich)
 
-As a Business Analyst, you want to discover, understand, and gain insight into your data. After accessing various data, profiling them and reviewing the profiling results you will be able to add a glossary term to a column in your dataset as well as provide a rating and comment on the dataset.
+As a Business Analyst, you want to discover, understand, and gain insight into your data. After accessing various data, profiling the data, and reviewing the profiling results you will be able to add a glossary term, with custom attributes, to a column in your dataset as well as provide a rating and comment on the dataset.
 
 In this exercise, you will discover and interact with various connected systems, upload a dataset, profile the data, rate dataset, create a relationship with data and a glossary term
 

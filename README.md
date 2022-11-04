@@ -15,8 +15,6 @@ The requirements to follow the exercises in this repository are:
 * to register and get your user,
 * retrieve a zipped folder with data.
 
-## UPDATE IF NECESSARY User Registration
-
 1. [Register](https://workshop_registration.cfapps.eu10.hana.ondemand.com/register/lynnel) to obtain your username and password.
 <br>![](/exercises/ex0/images/Registration_homepage.png)
 

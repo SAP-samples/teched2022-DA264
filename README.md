@@ -26,7 +26,7 @@ The requirements to follow the exercises in this repository are:
 3. Click 'Submit'.
 <br>![](/exercises/ex0/images/Registration_homepage_name.png)
 
-4. Your username and password have been generated. You will use the username and password to log into SAP Data Intelligence.
+4. Your user(name) and password have been generated. You will use the user(name) and password to log into SAP Data Intelligence.  You will also use the last 2-digits of your user throughout the exercises.
 <br>![](/exercises/ex0/images/Registration_Username_Pwd.png)
 
 ## Pre-Requisites

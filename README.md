@@ -71,7 +71,7 @@ The requirements to follow the exercises in this repository are:
 <br>![](/exercises/ex0/images/Ex00_Part01_01_add_new_RenameDRUG.png)
 
 14. Right click and select rename, to rename 'DRUG.csv' to 'DRUG_##.csv' (where ## is the last 2-digits of your username).
-<br>![](/exercises/ex0/images/Ex00_Part01_01_add_new_RenameDRUG_new.png)
+<br>*Note: For example if you are user teched-da264-99, then use the '99' and rename your file to DRUG_99.csv<br>![](/exercises/ex0/images/Ex00_Part01_01_add_new_RenameDRUG_new.png)
 <br>*Note: For example if you are user teched-da264-99, then use the 99 and rename your file DRUG_99.csv
 
 ## Disclaimer

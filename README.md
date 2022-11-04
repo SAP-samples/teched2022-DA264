@@ -17,12 +17,12 @@ The requirements to follow the exercises in this repository are:
 
 ## UPDATE IF NECESSARY User Registration
 
-1. [Register](https://workshop_registration.cfapps.eu10.hana.ondemand.com/register/dat163-2_new) to obtain your username and password
+1. [Register](https://workshop_registration.cfapps.eu10.hana.ondemand.com/register/lynnel) to obtain your username and password
 <br> CHANGE REGISTER TO BE A URL
 
 2. Select the workshop entry for this session: da264 UPDATE IF NECESSARY
 <br>ADD SCREEN SHOT
-##<br>![](/exercises/ex0/images/Ex00_Registration_01b.png_new)
+##<br>![](/exercises/ex0/images/Registration_home page.png)
 
 3. Type your name.
 <br>ADD SCREEN SHOT

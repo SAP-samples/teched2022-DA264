@@ -18,16 +18,16 @@ The requirements to follow the exercises in this repository are:
 ## UPDATE IF NECESSARY User Registration
 
 1. [Register](https://workshop_registration.cfapps.eu10.hana.ondemand.com/register/lynnel) to obtain your username and password.
-##<br>![](/exercises/ex0/images/Registration_homepage.png)
+<br>![](/exercises/ex0/images/Registration_homepage.png)
 
 2. Type your name.
-##<br>![](/exercises/ex0/images/Registration_homepage_name.png)
+<br>![](/exercises/ex0/images/Registration_homepage_name.png)
 
 3. Click 'Submit'.
-##<br>![](/exercises/ex0/images/Registration_homepage_name.png)
+<br>![](/exercises/ex0/images/Registration_homepage_name.png)
 
 4. Your username and password have been generated. You will use the username and password to log into SAP Data Intelligence.
-##<br>![](/exercises/ex0/images/Registration_Username_Pwd.png)
+<br>![](/exercises/ex0/images/Registration_Username_Pwd.png)
 
 ## Pre-Requisites
 

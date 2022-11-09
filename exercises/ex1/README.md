@@ -312,13 +312,13 @@ You can now use this enriched dataset to isolate the data quality issues to furt
 32. Click 'Expression'.
 <br>![](/exercises/ex1/images/Ex01_Part04_32.png)
 
-33. Type the following expression: 'CASE WHEN "DRUG_NAME_0" IS NULL THEN 'NO' ELSE 'YES' END'.
+33. Type the following expression: 'CASE WHEN "DRUG_NAME_0" IS NULL THEN 'NO' ELSE 'YES' END'.  This will add a 'NO' in the new 'ValidClaim' column when the 'DRUG_NAME_0' colum is NULL and a 'YES' value when the column contains data.
 <br>![](/exercises/ex1/images/Ex01_Part04_33.png)
 
 34. Click 'OK'.
 <br>![](/exercises/ex1/images/Ex01_Part04_34.png)
 
-35. Click 'Apply'(at the bottom right).
+35. Click 'Apply' (at the bottom right).
 <br>![](/exercises/ex1/images/Apply.png)
 
 36. A new column, ValidClaim' is now created.
@@ -342,7 +342,7 @@ You can now use this enriched dataset to isolate the data quality issues to furt
 42. Type 'PHARMA_CLAIMS_ENRICHED_##' (where ## is your user number) for the 'Dataset Name'.
 <br>![](/exercises/ex1/images/Ex01_Part04_42.png)
 
-43. Click 'Apply'(at the bottom right).
+43. Click 'Apply' (at the bottom right). This will create a new dataset called 'PHARMA_CLAIMS_ENRICHED_##' (where ## is your user number) with the changes you have made by joining tables, creating a new column based on an expression, and removing a column.
 <br>![](/exercises/ex1/images/Apply.png)
 
 44. Click 'Data Intelligence Metadata Explorer'.
@@ -420,7 +420,7 @@ You can now use this enriched dataset to isolate the data quality issues to furt
 67. Type 'Publication for enriched claimed data' for the 'Description' text field.
 <br>![](/exercises/ex1/images/Ex01_Part04_64_new.png)
 
-68. Click 'Publish'.
+68. Click 'Publish' (at the bottom right).
 <br>![](/exercises/ex1/images/Ex01_Part04_65.png)
 
 69. The application sends a notification for the publication task trigger.

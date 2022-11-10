@@ -18,13 +18,16 @@ The requirements to follow the exercises in this repository are:
 1. [Register](https://workshop_registration.cfapps.eu10.hana.ondemand.com/register/lynnel) to obtain your username and password.
 <br>![](/exercises/ex0/images/Registration_homepage.png)
 
-2. Type your name.
+2. Select 'teched22_da264 - DA264 - DA264 - Catalog, Discover, Prepare: SAP Data Intelligence Cloud for Data Governance - 2202-11-15 02:00:00' from the drop down.
+<br>![](/exercises/ex0/images/Registration_homepage_new.png)
+
+3. Type your name.
 <br>![](/exercises/ex0/images/Registration_homepage_name.png)
 
-3. Click 'Submit'.
+4. Click 'Submit'.
 <br>![](/exercises/ex0/images/Registration_homepage_name.png)
 
-4. Your user(name) and password have been generated. You will use the user(name) and password to log into SAP Data Intelligence.  You will also use the last 2-digits of your user throughout the exercises.
+5. Your user(name) and password have been generated. You will use the user(name) and password to log into SAP Data Intelligence.  You will also use the last 2-digits of your user throughout the exercises.
 <br>![](/exercises/ex0/images/Registration_Username_Pwd.png)
 
 ## Pre-Requisites

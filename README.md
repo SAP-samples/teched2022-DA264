@@ -1,3 +1,5 @@
+[![REUSE status](https://api.reuse.software/badge/github.com/SAP-samples/teched2022-DA264)](https://api.reuse.software/info/github.com/SAP-samples/teched2022-DA264)
+
 # DA264 - Catalog, Discover, Prepare: SAP Data Intelligence Cloud for Data Governance
 
 ## Description
